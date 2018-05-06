@@ -76,14 +76,16 @@ page_1_layout = html.Div([
                 column_widths=80
             ),
     dcc.Graph(
+        id='histogram',
         figure={
             'data': [
-                [go.Scatter(
-                    x=df5['Date'],
-                    y=df5['NrTweets'])]
+                go.Scatter(
+                    y=df5['NrTweets'], x=df5['Date'], # Data
+                    mode='lines'
+                   )
             ],
             'layout': {
-                'title': 'Dash Data2 Visualization'
+                'title': '"Suicide" usage on Twitter'
             }
         }
     ),
@@ -125,7 +127,7 @@ page_1_layout = html.Div([
 	html.Br(),
     dcc.Link('Go back to home', href='/'),
 
-])
+], style={'marginLeft': 30, 'marginRight': 30})
 #, className="container"
 
 @app.callback(dash.dependencies.Output('datatable', 'selected_row_indices'),
