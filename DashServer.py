@@ -82,7 +82,7 @@ page_1_layout = html.Div([
                 sortable=True,
                 editable=False,
                 min_height=350
-            )], style={'width': '60%', 'display': 'inline-block', 'vertical-align': 'middle'}),
+            )], style={'width': '60%', 'display': 'inline-block', 'vertical-align': 'left'}),
     html.Div([
     dt.DataTable(
         rows=df7.to_dict('records'),
@@ -90,7 +90,7 @@ page_1_layout = html.Div([
         sortable=True,
         editable=False,
         min_height=350
-    )], style={'width': '39%', 'display': 'inline-block', 'vertical-align': 'right'}),
+    )], style={'width': '40%', 'display': 'inline-block', 'vertical-align': 'right'}),
  #   html.Div(id='page-1-content'),
     html.Div([
     html.H1('Countries'),
