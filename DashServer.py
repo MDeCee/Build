@@ -10,12 +10,12 @@ import plotly
 import dash_auth
 
 df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)[:50]
-df2 = pd.read_csv('Dataframes/Languages.csv')[:50]
+#df2 = pd.read_csv('Dataframes/Languages.csv')[:50]
 df3 = pd.read_csv('Dataframes/People.csv')[:100000]
 df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
 df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
-df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
-df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
+#df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
+#df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 plotly.tools.set_credentials_file(username='MDeCee', api_key='XekXmMpB1MgONf6C5rLS')
 start_time = time.time()
 APP_NAME = 'Dash Authentication Twitter'
