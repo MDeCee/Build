@@ -28,3 +28,4 @@ six==1.11.0
 traitlets==4.3.2
 urllib3==1.22
 Werkzeug==0.14.1
+dash-auth==1.0.0
