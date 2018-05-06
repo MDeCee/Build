@@ -72,7 +72,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height= 300,
+                min_height= 350,
                 column_widths=80
             ),
     html.Div([
@@ -81,17 +81,16 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=300
+                min_height=350
             )], style={'width': '60%', 'display': 'inline-block', 'vertical-align': 'middle'}),
-    html.Div([], style={'width': '1%', 'display': 'inline-block', 'vertical-align': 'middle'}),
     html.Div([
     dt.DataTable(
         rows=df7.to_dict('records'),
         filterable=True,
         sortable=True,
         editable=False,
-        min_height=300
-    )], style={'width': '29%', 'display': 'inline-block', 'vertical-align': 'right'}),
+        min_height=350
+    )], style={'width': '39%', 'display': 'inline-block', 'vertical-align': 'right'}),
  #   html.Div(id='page-1-content'),
     html.Div([
     html.H1('Countries'),
@@ -101,7 +100,7 @@ page_1_layout = html.Div([
                 selected_row_indices=[],
                 filterable=True,
                 sortable=True,
-                min_height=300,
+                min_height=350,
                 editable=False,
                 id='datatable'
             ),
