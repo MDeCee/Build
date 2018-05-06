@@ -16,7 +16,6 @@ df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
 df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
 #df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
-plotly.tools.set_credentials_file(username='MDeCee', api_key='XekXmMpB1MgONf6C5rLS')
 start_time = time.time()
 
 Users_Passwords = [
@@ -73,7 +72,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height= 500,
+                min_height= 200,
                 column_widths=80
             ),
     html.Div([
@@ -82,7 +81,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=500
+                min_height=200
             )], style={'width': '49%', 'display': 'inline-block', 'vertical-align': 'left'}),
     html.Div([], style={'width': '1%', 'display': 'inline-block', 'vertical-align': 'middle'}),
     html.Div([
