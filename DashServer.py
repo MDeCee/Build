@@ -72,7 +72,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height= 200,
+                min_height= 300,
                 column_widths=80
             ),
     html.Div([
@@ -81,7 +81,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=200
+                min_height=300
             )], style={'width': '49%', 'display': 'inline-block', 'vertical-align': 'left'}),
     html.Div([], style={'width': '1%', 'display': 'inline-block', 'vertical-align': 'middle'}),
     html.Div([
@@ -90,7 +90,7 @@ page_1_layout = html.Div([
         filterable=True,
         sortable=True,
         editable=False,
-        min_height=500
+        min_height=300
     )], style={'width': '49%', 'display': 'inline-block', 'vertical-align': 'right'}),
  #   html.Div(id='page-1-content'),
     html.Div([
