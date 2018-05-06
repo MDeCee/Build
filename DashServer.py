@@ -101,7 +101,7 @@ page_1_layout = html.Div([
                 selected_row_indices=[],
                 filterable=True,
                 sortable=True,
-                min_height=500,
+                min_height=300,
                 editable=False,
                 id='datatable'
             ),
