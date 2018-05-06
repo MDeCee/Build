@@ -95,7 +95,7 @@ page_1_layout = html.Div([
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=350
+                min_height=240
             )], style={'width': '60%', 'display': 'inline-block', 'vertical-align': 'left'}),
     html.Div([
     dt.DataTable(
@@ -103,11 +103,15 @@ page_1_layout = html.Div([
         filterable=True,
         sortable=True,
         editable=False,
-        min_height=350
+        min_height=240
     )], style={'width': '40%', 'display': 'inline-block', 'vertical-align': 'right'}),
  #   html.Div(id='page-1-content'),
     html.Div([
     html.H1('Countries'),
+    html.Div(id='selected-indexes'),
+    dcc.Graph(
+            id='graph'
+    ),
 	dt.DataTable(
                 rows=df.to_dict('records'),
                 row_selectable=True,
@@ -117,17 +121,13 @@ page_1_layout = html.Div([
                 min_height=350,
                 editable=False,
                 id='datatable'
-            ),
-    html.Div(id='selected-indexes'),
-    dcc.Graph(
-        id='graph'
-    ),
+            )
 #    ],className='container', style={'maxWidth': '90%'}),
-], style={'marginLeft': 100, 'marginRight': 100}),
+], style={'marginLeft': 40, 'marginRight': 40}),
 	html.Br(),
     dcc.Link('Go back to home', href='/'),
 
-], style={'marginLeft': 30, 'marginRight': 30})
+], style={'marginLeft': 40, 'marginRight': 40})
 #, className="container"
 
 @app.callback(dash.dependencies.Output('datatable', 'selected_row_indices'),
