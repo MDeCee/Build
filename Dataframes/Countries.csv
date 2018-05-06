@@ -1,51 +1,51 @@
 country_location,Tweets,TweetsSuicide,TweetsLowSentiment
-United States,44454,5006,31585
-India,28052,2334,20614
-"London, England",17486,2415,12442
-"California, USA",15291,1908,10879
-USA,14780,1438,10709
-London,14178,1577,10212
-United Kingdom,13183,1697,9357
-"Los Angeles, CA",12563,1689,9093
-"Texas, USA",12127,1392,8546
-"England, United Kingdom",11427,1739,8012
-"Florida, USA",10839,1428,7646
-"Houston, TX",10311,1767,7353
-"New Delhi, India",9995,786,7296
-"Lagos, Nigeria",9426,1938,7187
-South Africa,9417,871,7383
-"Chicago, IL",8706,1211,6225
-"New York, NY",8627,1091,6115
-Nigeria,8616,1533,6581
-UK,8279,927,5738
-Canada,8244,1052,5908
-"Washington, DC",7991,1127,5820
-"Mumbai, India",6973,708,5057
-"New York, USA",6885,946,4968
-"Johannesburg, South Africa",6583,668,5209
-"Atlanta, GA",6195,819,4502
-Earth,5896,825,4286
-Malaysia,5290,1207,3386
-Australia,5290,642,3846
-Texas,4887,561,3439
-"Toronto, Ontario",4716,662,3361
-"Dallas, TX",4700,647,3285
-New York,4610,535,3309
-"North Carolina, USA",4597,549,3162
-Ireland,4537,697,3172
-Mumbai,4533,338,3299
-"Michigan, USA",4525,548,3120
-"New Jersey, USA",4469,633,3184
-"Ohio, USA",4374,562,3054
-"Pennsylvania, USA",4274,590,2985
-"Boston, MA",4187,566,3016
-"Georgia, USA",4119,500,2838
-"San Francisco, CA",4084,374,3148
-"Miami, FL",4034,615,2958
-"Nairobi, Kenya",4024,711,2937
-England,4015,460,2807
-California,3899,482,2743
-"Austin, TX",3895,461,2809
-"Bengaluru, India",3867,317,2804
-"Brooklyn, NY",3850,406,2758
-"Virginia, USA",3769,494,2736
+United States,45138,5108,32065
+India,28327,2371,20789
+"London, England",17633,2432,12552
+"California, USA",15513,1928,11020
+USA,14942,1460,10833
+London,14264,1589,10276
+United Kingdom,13297,1706,9436
+"Los Angeles, CA",12728,1705,9217
+"Texas, USA",12291,1423,8678
+"England, United Kingdom",11537,1747,8088
+"Florida, USA",10977,1453,7753
+"Houston, TX",10437,1774,7459
+"New Delhi, India",10059,796,7343
+"Lagos, Nigeria",9513,1942,7254
+South Africa,9486,874,7437
+"Chicago, IL",8813,1223,6298
+"New York, NY",8722,1101,6185
+Nigeria,8699,1541,6642
+Canada,8369,1063,6002
+UK,8339,935,5779
+"Washington, DC",8071,1137,5876
+"Mumbai, India",7022,719,5088
+"New York, USA",6970,958,5032
+"Johannesburg, South Africa",6643,672,5259
+"Atlanta, GA",6287,820,4565
+Earth,6003,832,4366
+Malaysia,5365,1209,3445
+Australia,5320,645,3869
+Texas,4951,570,3484
+"Dallas, TX",4763,651,3336
+"Toronto, Ontario",4760,669,3395
+New York,4650,543,3343
+"North Carolina, USA",4648,552,3201
+"Michigan, USA",4592,558,3165
+Ireland,4591,700,3208
+Mumbai,4562,349,3320
+"New Jersey, USA",4530,642,3232
+"Ohio, USA",4424,573,3098
+"Pennsylvania, USA",4329,596,3028
+"Boston, MA",4238,571,3049
+"Georgia, USA",4176,503,2883
+"San Francisco, CA",4124,378,3182
+"Miami, FL",4067,619,2984
+England,4058,461,2844
+"Nairobi, Kenya",4054,711,2963
+California,3957,497,2791
+"Austin, TX",3936,464,2838
+"Brooklyn, NY",3897,410,2791
+"Bengaluru, India",3896,320,2821
+"Virginia, USA",3809,498,2765

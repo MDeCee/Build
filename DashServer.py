@@ -15,7 +15,7 @@ df3 = pd.read_csv('Dataframes/People.csv')[:100000]
 df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
 df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
-#df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
+df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
 
 Users_Passwords = [
@@ -75,6 +75,18 @@ page_1_layout = html.Div([
                 min_height= 350,
                 column_widths=80
             ),
+    dcc.Graph(
+        figure={
+            'data': [
+                [go.Scatter(
+                    x=df5['Date'],
+                    y=df5['NrTweets'])]
+            ],
+            'layout': {
+                'title': 'Dash Data2 Visualization'
+            }
+        }
+    ),
     html.Div([
     dt.DataTable(
                 rows=df6.to_dict('records'),
