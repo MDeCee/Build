@@ -18,16 +18,15 @@ df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
 #df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 plotly.tools.set_credentials_file(username='MDeCee', api_key='XekXmMpB1MgONf6C5rLS')
 start_time = time.time()
-APP_NAME = 'Dash Authentication Twitter'
-#APP_URL = 'https://mdc-dash-win.herokuapp.com'
-#APP_URL = '127.0.0.1:8050'
-app = dash.Dash(__name__)
+
+Users_Passwords = [
+    ['Admin', '11297']
+]
+app = dash.Dash('auth')
 server = app.server
-auth = dash_auth.PlotlyAuth(
+auth = dash_auth.BasicAuth(
     app,
-    APP_NAME,
-    'private',
-    server
+    Users_Passwords
 )
 app.scripts.config.serve_locally=True
 app.config.suppress_callback_exceptions = True
