@@ -1,463 +1,463 @@
 country_location,Tweets,TweetsSuicide,TweetsLowSentiment
-United States,52271,5732,37611
-India,30845,2735,22672
-"London, England",19634,2671,14015
-"California, USA",18226,2098,13183
-USA,16934,1618,12413
-London,15822,1801,11421
-"Los Angeles, CA",15143,1821,11194
-United Kingdom,14849,1934,10537
-"Texas, USA",14372,1585,10344
-"England, United Kingdom",12797,1894,8971
-"Houston, TX",12759,1863,9479
-"Florida, USA",12749,1605,9194
-"Lagos, Nigeria",10992,2079,8318
+United States,52323,5734,37652
+India,30852,2736,22678
+"London, England",19653,2673,14030
+"California, USA",18251,2098,13201
+USA,16951,1619,12424
+London,15839,1803,11435
+"Los Angeles, CA",15167,1821,11213
+United Kingdom,14865,1942,10549
+"Texas, USA",14398,1589,10367
+"England, United Kingdom",12806,1894,8976
+"Houston, TX",12789,1863,9509
+"Florida, USA",12764,1606,9208
+"Lagos, Nigeria",11008,2083,8333
 "New Delhi, India",10818,912,7927
-South Africa,10666,944,8314
-"Chicago, IL",10482,1316,7618
-"New York, NY",10219,1203,7303
-Nigeria,10175,1668,7794
-Canada,9598,1171,6947
-UK,9230,1051,6354
-"Washington, DC",9163,1205,6654
-"New York, USA",8064,1057,5867
-"Atlanta, GA",7807,886,5798
+South Africa,10672,944,8319
+"Chicago, IL",10497,1317,7632
+"New York, NY",10229,1203,7313
+Nigeria,10182,1668,7798
+Canada,9605,1171,6953
+UK,9238,1055,6361
+"Washington, DC",9171,1206,6660
+"New York, USA",8080,1057,5878
+"Atlanta, GA",7814,886,5804
 "Mumbai, India",7581,815,5516
-"Johannesburg, South Africa",7428,724,5846
-Earth,6863,923,5031
-Australia,6319,745,4596
-Malaysia,5938,1232,3917
-"Dallas, TX",5834,738,4216
-Texas,5734,618,4116
-"Toronto, Ontario",5468,736,3895
-New York,5393,600,3914
-"North Carolina, USA",5381,599,3781
-"Michigan, USA",5257,619,3684
-"New Jersey, USA",5255,693,3810
-Ireland,5132,763,3581
-"Ohio, USA",5111,632,3626
-"Pennsylvania, USA",4983,658,3527
-"Boston, MA",4981,633,3642
-Mumbai,4959,404,3609
-"Georgia, USA",4927,567,3489
-"Miami, FL",4836,646,3641
-"San Francisco, CA",4793,417,3707
-"Brooklyn, NY",4655,442,3372
-California,4633,549,3321
-"Nairobi, Kenya",4610,745,3351
-"Austin, TX",4602,494,3362
-England,4552,527,3202
-"Philadelphia, PA",4501,605,3278
-"Virginia, USA",4415,538,3263
-"Las Vegas, NV",4289,475,3174
-"San Diego, CA",4235,522,3076
+"Johannesburg, South Africa",7430,724,5846
+Earth,6866,923,5034
+Australia,6323,745,4599
+Malaysia,5941,1232,3920
+"Dallas, TX",5844,739,4225
+Texas,5742,618,4124
+"Toronto, Ontario",5477,736,3902
+New York,5397,600,3918
+"North Carolina, USA",5390,601,3788
+"Michigan, USA",5265,619,3689
+"New Jersey, USA",5258,693,3813
+Ireland,5136,763,3584
+"Ohio, USA",5113,632,3627
+"Boston, MA",4993,634,3654
+"Pennsylvania, USA",4988,658,3531
+Mumbai,4961,404,3610
+"Georgia, USA",4929,567,3491
+"Miami, FL",4845,646,3649
+"San Francisco, CA",4798,417,3712
+"Brooklyn, NY",4659,442,3375
+California,4643,550,3330
+"Nairobi, Kenya",4611,745,3352
+"Austin, TX",4606,495,3365
+England,4558,527,3206
+"Philadelphia, PA",4510,605,3286
+"Virginia, USA",4420,539,3268
+"Las Vegas, NV",4295,475,3178
+"San Diego, CA",4243,522,3083
 "Bengaluru, India",4223,376,3072
-"Seattle, WA",4212,440,3043
-"San Antonio, TX",4188,634,2947
-"Maryland, USA",4079,522,2966
-Worldwide,4078,427,3092
-Republic of the Philippines,3987,706,2825
-"Manchester, England",3946,785,2732
-New Delhi,3930,277,2898
+"Seattle, WA",4220,440,3050
+"San Antonio, TX",4199,635,2956
+"Maryland, USA",4085,522,2970
+Worldwide,4080,427,3092
+Republic of the Philippines,3988,706,2826
+"Manchester, England",3950,785,2735
+New Delhi,3931,277,2899
 Singapore,3840,533,2735
-Pakistan,3811,722,2822
-"Massachusetts, USA",3735,434,2727
-Los Angeles,3707,378,2727
-Chicago,3655,423,2656
-"Arizona, USA",3643,402,2655
-France,3641,533,2674
-"Scotland, United Kingdom",3628,795,2565
-"Abuja, Nigeria",3606,622,2699
-Florida,3559,394,2556
-NYC,3500,370,2554
-"Illinois, USA",3452,461,2445
+Pakistan,3813,722,2824
+"Massachusetts, USA",3741,434,2731
+Los Angeles,3709,378,2729
+Chicago,3658,423,2659
+France,3649,533,2682
+"Arizona, USA",3649,402,2661
+"Scotland, United Kingdom",3631,796,2567
+"Abuja, Nigeria",3611,623,2703
+Florida,3561,394,2556
+NYC,3504,370,2557
+"Illinois, USA",3459,461,2451
 Indonesia,3255,330,2174
 Philippines,3251,681,2427
-Everywhere,3240,297,2548
-"Glasgow, Scotland",3227,621,2311
-"Pretoria, South Africa",3146,297,2454
-Scotland,3032,501,2117
-"Ontario, Canada",2998,439,2104
-Germany,2921,414,2046
-Toronto,2888,390,2074
-Bangalore,2887,243,2113
-"Orlando, FL",2880,352,2118
-"Phoenix, AZ",2872,309,2121
-Global,2871,298,2080
-"Cape Town, South Africa",2860,256,2219
-"Tennessee, USA",2838,315,2018
-"Hyderabad, India",2817,224,2068
-"Colorado, USA",2802,341,2026
-"Baltimore, MD",2796,332,2120
-"Paris, France",2768,381,2163
-"Portland, OR",2767,274,2023
-"Indiana, USA",2695,347,1918
-New Jersey,2668,388,1907
-"Washington, USA",2655,316,1875
-"London, UK",2636,273,1893
-"New Orleans, LA",2604,280,1930
-"Pittsburgh, PA",2544,327,1877
-"Denver, CO",2530,323,1795
-"South Carolina, USA",2518,284,1764
-Planet Earth,2496,339,1857
-New York City,2491,264,1826
-Lagos,2468,437,1878
-"Detroit, MI",2459,314,1792
-Hell,2456,331,1877
-"Charlotte, NC",2409,268,1756
-"Minnesota, USA",2334,332,1661
-"Nashville, TN",2306,230,1635
-"Pune, India",2255,212,1637
-"Karachi, Pakistan",2224,411,1600
-"Columbus, OH",2194,271,1568
-"Oregon, USA",2156,256,1528
-"Minneapolis, MN",2136,306,1508
-"Tampa, FL",2126,270,1581
+Everywhere,3242,297,2550
+"Glasgow, Scotland",3229,621,2313
+"Pretoria, South Africa",3150,297,2456
+Scotland,3034,501,2118
+"Ontario, Canada",3003,440,2107
+Germany,2927,414,2049
+Toronto,2890,390,2075
+Bangalore,2888,243,2114
+"Orlando, FL",2887,352,2123
+"Phoenix, AZ",2875,309,2124
+Global,2873,298,2081
+"Cape Town, South Africa",2861,257,2220
+"Tennessee, USA",2839,315,2018
+"Hyderabad, India",2820,224,2070
+"Colorado, USA",2806,341,2030
+"Baltimore, MD",2800,332,2124
+"Paris, France",2772,381,2167
+"Portland, OR",2770,274,2026
+"Indiana, USA",2697,347,1919
+New Jersey,2670,388,1909
+"Washington, USA",2660,316,1879
+"London, UK",2641,274,1897
+"New Orleans, LA",2606,280,1932
+"Pittsburgh, PA",2547,327,1880
+"Denver, CO",2534,324,1798
+"South Carolina, USA",2522,284,1767
+Planet Earth,2499,339,1859
+New York City,2495,264,1829
+Lagos,2470,437,1880
+"Detroit, MI",2460,314,1792
+Hell,2459,331,1879
+"Charlotte, NC",2415,268,1761
+"Minnesota, USA",2336,332,1663
+"Nashville, TN",2310,230,1639
+"Pune, India",2256,212,1638
+"Karachi, Pakistan",2225,411,1601
+"Columbus, OH",2199,272,1572
+"Oregon, USA",2160,256,1532
+"Minneapolis, MN",2141,308,1511
+"Tampa, FL",2129,270,1584
 Delhi,2097,146,1595
-Michigan,2086,243,1468
-"Missouri, USA",2074,266,1459
-"Liverpool, England",2070,370,1498
-Wakanda,2044,235,1516
-"North West, England",2029,332,1372
+Michigan,2089,243,1470
+"Missouri, USA",2078,266,1463
+"Liverpool, England",2072,371,1499
+Wakanda,2049,237,1519
+"North West, England",2031,332,1372
 "Alabama, USA",2028,227,1419
-,2019,278,1530
-"Wisconsin, USA",2014,283,1389
-"Melbourne, Victoria",2012,325,1426
-"Indianapolis, IN",2004,222,1457
-"Dublin City, Ireland",2002,322,1432
-"Chennai, India",1987,122,1449
-"Louisiana, USA",1976,228,1434
+,2021,278,1532
+"Melbourne, Victoria",2018,325,1430
+"Wisconsin, USA",2016,283,1391
+"Indianapolis, IN",2005,223,1458
+"Dublin City, Ireland",2003,322,1433
+"Chennai, India",1990,122,1452
+"Louisiana, USA",1980,228,1438
 "Kolkata, India",1974,191,1435
-"Edinburgh, Scotland",1950,404,1352
+"Edinburgh, Scotland",1952,405,1354
 "Dubai, United Arab Emirates",1945,320,1427
-"Kentucky, USA",1938,233,1357
+"Kentucky, USA",1941,234,1359
 "Lahore, Pakistan",1935,281,1426
 भारत,1934,130,1396
-"Birmingham, England",1925,376,1350
-"South East, England",1892,312,1343
+"Birmingham, England",1927,377,1350
+"South East, England",1894,312,1344
 "Durban, South Africa",1862,170,1457
-Ohio,1842,197,1318
-"Connecticut, USA",1840,239,1323
+Ohio,1846,198,1320
+"Connecticut, USA",1845,239,1328
+Manchester,1840,296,1252
 Johannesburg,1839,157,1434
-Manchester,1838,296,1251
-"Accra, Ghana",1821,291,1297
+"Accra, Ghana",1824,291,1298
 "Islamabad, Pakistan",1809,369,1336
-"Seoul, Republic of Korea",1775,180,1242
+"Seoul, Republic of Korea",1776,180,1243
 "Sydney, New South Wales",1767,226,1245
 she/her,1749,200,1282
 Kenya,1737,307,1252
-hell,1732,283,1350
-"Cleveland, OH",1701,182,1238
-"Wales, United Kingdom",1680,313,1189
-"Oklahoma, USA",1676,208,1200
-"Raleigh, NC",1628,168,1217
-Glasgow,1619,253,1105
+hell,1735,284,1353
+"Cleveland, OH",1704,182,1241
+"Wales, United Kingdom",1685,314,1193
+"Oklahoma, USA",1677,208,1201
+"Raleigh, NC",1631,168,1219
+Glasgow,1621,254,1106
 india,1597,136,1165
-United States of America,1589,144,1199
-"Fort Worth, TX",1555,197,1097
-America,1550,119,1062
-Brasil,1549,208,1128
-Italy,1534,155,1073
-"Sacramento, CA",1529,190,1107
-Jamaica,1522,144,1129
-Liverpool,1517,216,1098
+United States of America,1590,144,1200
+"Fort Worth, TX",1557,197,1099
+America,1551,119,1063
+Brasil,1550,208,1128
+Italy,1535,156,1074
+"Sacramento, CA",1531,190,1108
+Jamaica,1523,144,1129
+Liverpool,1520,217,1100
 Bharat,1498,107,1100
-"Memphis, TN",1490,121,1114
-NY,1481,161,1098
-"Cincinnati, OH",1480,210,1066
-Hogwarts,1472,269,1075
-Colorado,1455,213,1048
-"Manhattan, NY",1452,161,1058
+"Memphis, TN",1491,121,1115
+"Cincinnati, OH",1483,211,1066
+NY,1483,161,1100
+Hogwarts,1473,269,1076
+Colorado,1456,213,1048
+"Manhattan, NY",1453,161,1059
 "Bronx, NY",1442,184,1047
 "Oakland, CA",1428,134,1040
+"Vancouver, British Columbia",1427,158,1016
 Chennai,1425,114,1036
-"Vancouver, British Columbia",1424,158,1013
 Hyderabad,1421,152,1033
 "South West, England",1411,209,957
 México,1409,143,992
-North Carolina,1398,155,1008
-Deutschland,1398,171,976
+North Carolina,1399,155,1008
+Deutschland,1399,171,977
 Portugal,1398,302,1063
-"Louisville, KY",1383,153,1043
-london,1366,160,999
-"Queens, NY",1362,148,1002
+"Louisville, KY",1385,153,1045
+london,1367,160,1000
+"Queens, NY",1363,148,1003
 Europe,1341,165,989
-San Francisco,1326,121,1023
-Virginia,1325,125,954
-"Bristol, England",1319,219,923
+San Francisco,1330,122,1025
+Virginia,1327,125,956
+"Bristol, England",1320,219,923
 Islamic Republic of Iran,1315,460,713
 "Kampala, Uganda",1310,186,968
-"Kansas City, MO",1303,189,952
+"Kansas City, MO",1304,189,953
 Northern Ireland,1300,112,601
 New Zealand,1295,168,901
 Dublin,1293,176,940
-Maryland,1290,157,942
+Maryland,1291,157,943
 "Mississippi, USA",1282,123,916
-Southern California,1277,133,918
+Southern California,1278,133,918
+World,1275,120,973
 Argentina,1275,181,917
-World,1274,120,972
-"St Louis, MO",1264,144,930
-Ghana,1260,192,892
-"Leeds, England",1256,225,904
-"Arkansas, USA",1247,163,860
-"Buffalo, NY",1244,172,893
+"St Louis, MO",1265,144,930
+Ghana,1262,192,893
+"Leeds, England",1259,227,904
+"Arkansas, USA",1249,163,862
+"Buffalo, NY",1245,172,894
 "Ottawa, Ontario",1243,188,877
-"Dublin, Ireland",1237,169,851
+"Dublin, Ireland",1239,170,853
 "Lucknow, India",1234,136,917
-"San Jose, CA",1231,148,870
+"San Jose, CA",1232,148,871
 "Ahmadabad City, India",1229,90,954
-The Netherlands,1221,170,883
-"Milwaukee, WI",1220,130,847
-"Tucson, AZ",1220,138,907
-Arizona,1220,133,856
+"Tucson, AZ",1225,138,910
+The Netherlands,1223,170,885
+"Milwaukee, WI",1222,130,848
+Arizona,1221,133,857
 🇵🇭,1215,133,862
+Somewhere,1214,175,882
 "Delhi, India",1213,92,890
-Somewhere,1213,175,881
 Abuja,1209,190,879
 Nairobi,1203,211,875
 Boston,1198,128,910
-"West Midlands, England",1196,187,815
-"Toronto, Canada",1189,140,829
-Paris,1173,183,914
-NJ,1170,168,854
+"West Midlands, England",1197,187,816
+"Toronto, Canada",1191,140,831
+Paris,1178,183,918
+NJ,1171,168,855
+"Sydney, Australia",1169,131,830
 "Kansas, USA",1167,144,823
-"Sydney, Australia",1167,131,829
 "Washington, D.C.",1163,188,852
-Italia,1148,118,820
-"Newcastle Upon Tyne, England",1147,241,840
-"Buenos Aires, Argentina",1138,135,848
+Italia,1150,118,822
+"Newcastle Upon Tyne, England",1150,241,842
+"Buenos Aires, Argentina",1143,135,852
+"Long Beach, CA",1134,141,833
 "Melbourne, Australia",1133,107,809
-"Long Beach, CA",1130,140,830
-"Sheffield, England",1124,200,789
+"Sheffield, England",1127,201,791
+Edinburgh,1119,132,795
 Mars,1118,155,858
-Edinburgh,1117,132,793
-Sweden,1107,179,781
+Sweden,1108,180,782
 Neverland,1106,215,803
 "Nottingham, England",1103,250,745
+Georgia,1097,98,790
 PH,1092,214,818
-Georgia,1091,98,785
-"Maine, USA",1087,104,778
-Belize,1086,8,916
+"Maine, USA",1088,104,779
+Belize,1087,8,917
 INDIA,1082,73,805
-Indiana,1076,118,759
-"Calgary, Alberta",1064,139,779
-Pennsylvania,1063,114,754
+Indiana,1077,118,759
+Pennsylvania,1067,115,757
+"Calgary, Alberta",1066,139,781
 "Montréal, Québec",1060,143,750
-Atlanta,1058,119,797
-"Richmond, VA",1052,119,765
+Atlanta,1060,119,799
+"Richmond, VA",1053,119,766
 "Iowa, USA",1052,128,750
-Houston,1048,120,783
-"North East, England",1037,212,738
+Houston,1050,120,785
+"North East, England",1038,212,739
 Puerto Rico,1032,165,768
 Massachusetts,1032,142,704
 "Jaipur, India",1024,100,715
-"São Paulo, Brasil",1014,121,781
-Seattle,1010,70,721
-"Cairo, Egypt",989,182,744
+"São Paulo, Brasil",1015,121,782
+Seattle,1011,70,722
+"Cairo, Egypt",991,182,746
 "Gurgaon, India",978,61,658
+Illinois,969,87,722
 Japan,969,117,713
-Illinois,967,87,722
-Essex,967,201,686
-Bay Area,964,142,715
-Here,964,113,690
+Essex,968,202,686
+Bay Area,966,142,717
+Here,965,114,691
 Thailand,961,76,703
-Washington DC,956,123,712
+Washington DC,960,123,715
 Cape Town,954,88,713
 Sydney,952,111,688
 Norway,951,125,731
-Hong Kong,941,130,663
+Hong Kong,942,130,664
 "Alberta, Canada",941,137,681
-"El Paso, TX",934,147,673
-"Nevada, USA",932,108,671
+"El Paso, TX",935,147,674
+"Nevada, USA",934,109,673
 Tennessee,923,88,643
 Wisconsin,921,124,637
-"Omaha, NE",915,112,657
+"Omaha, NE",917,112,658
 Africa,911,118,708
 Finland,910,143,661
 "Perth, Western Australia",910,84,679
 "Bloemfontein, South Africa",909,97,713
-"Oklahoma City, OK",901,112,633
-they/them,901,133,710
+"Oklahoma City, OK",902,112,633
+they/them,902,133,711
+"Belfast, Northern Ireland",899,164,631
 "Bengaluru South, India",897,75,617
-"Belfast, Northern Ireland",896,163,628
 "Punjab, Pakistan",893,156,660
-Philadelphia,891,98,639
+Philadelphia,892,98,640
 Minnesota,890,125,655
-"Cardiff, Wales",888,134,601
+"Cardiff, Wales",889,134,602
 "Maharashtra, India",881,68,637
-España,879,110,643
-"Tallahassee, FL",879,133,672
-"New Delhi, Delhi",878,76,659
-somewhere,877,143,644
+"Tallahassee, FL",881,133,673
+España,880,110,644
+"New Delhi, Delhi",879,76,660
+somewhere,878,143,644
 Belgique,874,24,687
 "Manila, Philippines",873,194,673
-"Birmingham, AL",871,84,633
+"Birmingham, AL",873,84,634
 Pretoria,868,78,659
-TX,865,116,655
+TX,867,116,656
+Bristol,863,129,593
 Pune,863,72,637
-uk,861,112,622
-Bristol,861,129,591
+uk,862,112,623
+"Albuquerque, NM",860,99,619
 Polska,859,101,574
-"Albuquerque, NM",857,99,617
-"Knoxville, TN",852,105,566
-South Carolina,850,75,591
+"Knoxville, TN",853,105,567
+South Carolina,851,75,592
 "West Virginia, USA",847,98,598
-"Salt Lake City, UT",842,132,586
-LA,841,100,620
-earth,839,123,618
-"Rio de Janeiro, Brasil",839,133,617
-DMV,833,96,605
-"Baton Rouge, LA",831,99,597
-CA,830,96,598
-"Virginia Beach, VA",825,105,590
+"Salt Lake City, UT",844,132,587
+LA,842,100,621
+earth,840,123,619
+"Rio de Janeiro, Brasil",840,133,618
+DMV,834,96,606
+CA,833,96,601
+"Baton Rouge, LA",832,99,597
+"Virginia Beach, VA",827,105,592
+Poland,823,97,559
 "Port Elizabeth, South Africa",823,68,635
-Poland,822,97,558
-"Noida, India",821,62,638
-chicago,813,67,580
-Mexico,813,96,567
-Belgium,810,117,605
-South Florida,808,85,606
-Dubai,805,76,624
-"British Columbia, Canada",802,84,556
-"Utah, USA",800,120,539
+"Noida, India",822,62,639
+chicago,815,67,582
+Mexico,815,96,568
+Belgium,812,117,607
+South Florida,810,85,608
+Dubai,806,76,625
+"British Columbia, Canada",803,84,557
+"Utah, USA",802,120,541
 "Uttar Pradesh, India",800,77,570
 "Edmonton, Alberta",800,120,573
+NC,796,81,590
 "Bangkok, Thailand",795,68,575
-NC,794,81,588
 Alabama,793,72,565
 Wales,790,123,544
 Ahmedabad,787,57,609
-"Selangor, Malaysia",786,176,534
+"Selangor, Malaysia",787,176,535
 "Patna, India",785,65,580
-Venezuela,783,130,621
-Brazil,782,112,534
+Venezuela,784,131,622
+Brazil,783,112,535
+Melbourne,780,104,552
 "New Hampshire, USA",779,101,557
-Melbourne,778,104,550
 ph,776,123,581
 "Gujarat, India",776,57,593
 "Leicester, England",770,170,528
 Oklahoma,769,137,544
-United Arab Emirates,767,80,589
-Las Vegas,766,87,568
+United Arab Emirates,768,80,590
+Las Vegas,767,87,568
 "Colorado Springs, CO",748,109,523
-"Brisbane, Queensland",743,101,519
+"Brisbane, Queensland",745,101,521
 "Chandigarh, India",741,111,562
-Louisiana,738,77,534
+Louisiana,739,77,534
 "Dhaka, Bangladesh",736,46,503
 "Cork, Ireland",734,156,522
 "Charleston, SC",733,86,494
-Oregon,729,72,519
-San Diego,728,87,531
-"Austin, Texas",728,68,549
+"Houston, Texas",731,76,536
+Oregon,730,72,520
+"Austin, Texas",730,68,551
+San Diego,729,87,532
 Nowhere,726,95,525
-"Houston, Texas",726,76,531
 he/him,724,85,547
+Kentucky,723,66,537
 "St. Louis, MO",722,213,475
-Kentucky,721,66,536
 "Kaduna, Nigeria",716,80,483
 "Berlin, Germany",711,91,503
 "Bangalore, India",708,46,480
 "Fresno, CA",707,85,498
 "Brighton, England",705,96,487
-"Tulsa, OK",701,85,519
+"Tulsa, OK",702,85,519
 "Rochester, NY",700,86,496
 Birmingham,698,110,499
 Brooklyn,693,59,486
 Maldives,686,80,515
 Spain,686,85,460
-"नई दिल्ली, भारत",683,47,491
-Wonderland,681,108,497
+"नई दिल्ली, भारत",684,47,492
+Wonderland,682,108,498
+Miami,680,81,521
 Nederland,678,108,498
-Miami,677,81,519
 mumbai,676,49,486
 everywhere,675,85,481
 "Durham, NC",670,69,489
 U.S.A.,667,55,471
 "Nebraska, USA",665,87,468
 Trinidad and Tobago,661,69,501
-Egypt,656,112,502
+Egypt,658,112,502
+"Arlington, TX",657,89,480
+US,656,57,489
 "Greensboro, NC",655,82,484
-"Arlington, TX",655,89,478
-US,654,57,488
 "Port Harcourt, Nigeria",652,125,484
+Connecticut,651,75,484
 SoCal,651,82,472
-Connecticut,650,75,483
 "Mumbai, Maharashtra",648,43,462
 Kolkata,648,46,489
 "Cambridge, England",648,95,436
 Chile,644,54,416
+"Alexandria, Egypt",644,121,527
+Jersey,641,94,463
 "Tamil Nadu, India",641,51,479
-Jersey,640,94,462
-"Alexandria, Egypt",640,121,523
 "Karnataka, India",639,62,438
 LDN,638,84,498
 Belfast,637,87,445
-London UK,635,183,314
-"Riverside, CA",633,96,454
+London UK,637,183,316
+"Riverside, CA",634,96,455
 "New Mexico, USA",631,68,439
 Durban,627,51,489
 "Oxford, England",625,103,418
 "Auckland, New Zealand",623,88,444
 "Ibadan, Nigeria",623,123,465
-Bahrain,618,63,467
+Bahrain,619,63,468
 Home,611,88,434
 Bengaluru,610,80,444
 "Delaware, USA",607,71,441
 "Portland, Oregon",606,49,421
+"Harare, Zimbabwe",605,103,423
 Sheffield,604,87,397
 Israel,604,64,428
 "Hawaii, USA",604,81,439
-"Harare, Zimbabwe",604,103,423
-worldwide,603,65,460
-Colombia,601,70,453
-"Dayton, OH",600,54,477
+worldwide,604,66,460
+Colombia,602,70,453
+"Dayton, OH",601,54,478
 "Fort Worth, Texas",599,91,316
 "İstanbul, Türkiye",599,114,454
 "Madison, WI",598,69,422
+"Honolulu, HI",597,73,436
 "Fort Lauderdale, FL",597,87,456
 MNL,597,206,476
-"Honolulu, HI",596,73,435
 "Moscow, Russia",596,95,428
-"Denton, TX",595,81,435
-"East, England",594,84,425
+"Denton, TX",596,81,435
+"East, England",595,84,426
 "Little Rock, AR",593,57,408
 "Los Angeles, California",588,55,414
-nyc,584,71,442
+nyc,585,71,443
+bay area,585,91,455
 "Rajasthan, India",584,51,421
-bay area,583,91,453
-ATL,582,74,443
+ATL,583,74,444
+"Scottsdale, AZ",581,56,421
 New Orleans,581,63,443
-"Scottsdale, AZ",579,56,420
-"Savannah, GA",578,62,445
-Hope World,576,33,378
-Yorkshire,574,77,420
-FL,574,78,447
+"Savannah, GA",579,62,445
+Hope World,577,33,379
+Yorkshire,577,80,420
+FL,576,78,449
 +62,573,55,378
 usa,573,58,401
+california,572,70,430
 New England,572,60,432
-california,571,70,429
+"East Midlands, England",569,115,387
 chennai,568,43,430
 "Wichita, KS",568,71,414
-"East Midlands, England",567,114,386
+"Reno, NV",565,75,397
 Leeds,565,99,403
-"Reno, NV",564,75,396
 Northern California,564,64,421
-texas,562,70,416
+texas,563,70,417
 Greece,561,66,411
 Kuwait,561,54,400
 "Bengaluru, Karnataka",561,52,403
 Kuala Lumpur,560,118,394
 Unknown,560,73,433
 "Dallas, Texas",560,68,391
+HTX,559,79,423
 Sverige,558,92,382
 "Long Island, NY",558,76,390
 "Punjab, India",556,38,393
-HTX,553,79,418
-AZ,552,71,419
+AZ,554,71,420
 Gurgaon,552,30,430
 India,551,51,410
-"Chattanooga, TN",550,51,386
-tx,549,64,438
+"Chattanooga, TN",551,51,387
+tx,550,64,439
 htx,549,70,430
 "West Palm Beach, FL",548,69,416
 "Federal Capital Territory, Nig",547,108,405
@@ -466,81 +466,81 @@ Nepal,546,68,394
 "Haryana, India",545,55,388
 "Lexington, KY",544,81,391
 "Cebu City, Central Visayas",543,120,405
-"Corpus Christi, TX",541,84,398
-Lebanon,541,85,416
+"Corpus Christi, TX",543,84,400
+Lebanon,542,85,417
 ประเทศไทย,536,13,416
 delhi,534,36,397
 Jammu And Kashmir,534,35,427
-"Grand Rapids, MI",532,79,368
-"Winnipeg, Manitoba",530,59,414
-"Adelaide, South Australia",529,69,381
-"Montana, USA",528,58,378
-"Jacksonville, FL",528,54,409
-"Alaska, USA",526,60,366
-Detroit,524,69,367
-"Rhode Island, USA",524,71,371
-"San Marcos, TX",522,80,390
-"Puerto Rico, USA",521,76,378
+"Grand Rapids, MI",533,79,369
+"Winnipeg, Manitoba",531,59,415
+"Adelaide, South Australia",530,69,382
+"Jacksonville, FL",530,54,411
+"Montana, USA",529,58,379
+"Alaska, USA",527,60,366
+Detroit,526,69,368
+"Rhode Island, USA",526,71,373
+"San Marcos, TX",524,80,392
+"Puerto Rico, USA",522,76,379
 Barcelona,520,77,382
+"Aberdeen, Scotland",520,119,370
 Berlin,519,56,368
-"Aberdeen, Scotland",519,118,370
 "Stockholm, Sweden",519,61,345
 "मुंबई, भारत",517,60,390
 "Navi Mumbai, India",515,60,373
 "Ann Arbor, MI",513,48,350
-Switzerland,511,51,358
+Switzerland,512,51,359
 Denmark,510,58,339
 "Eugene, OR",510,58,365
-"Kano, Nigeria",508,44,333
+"Kano, Nigeria",509,44,334
+Madrid,508,77,393
 Iowa,508,38,364
-Madrid,507,77,392
 new york,506,68,371
+canada,506,61,374
+Vancouver,506,57,377
 Manila,506,136,376
 DC,505,41,345
-canada,505,61,373
-Vancouver,505,57,376
+Midwest,505,46,351
+"Alexandria, VA",505,56,350
 Kansas,505,44,367
-Midwest,504,46,350
-"Alexandria, VA",503,56,348
 "East London, South Africa",502,38,395
-"Bihar, India",501,32,345
+"Bihar, India",502,32,346
+nowhere,501,82,367
+"Bay Area, CA",501,66,357
+"Tempe, AZ",501,63,352
 "Idaho, USA",500,50,348
-"Bay Area, CA",499,66,355
-"Tempe, AZ",499,63,350
 florida,498,64,373
 Cali,498,73,379
 Nottingham,498,81,335
-nowhere,497,82,363
-"Vancouver, BC",496,58,326
+"Vancouver, BC",497,58,327
 "Halifax, Nova Scotia",495,59,373
 Hindustan,493,41,365
 Islamabad,492,110,371
-Lagos Nigeria,487,67,377
+Paradise,489,85,344
+Lagos Nigeria,488,67,378
 "Barnsley, England",487,34,348
 "Arlington, VA",487,49,348
-Paradise,487,85,342
+Ottawa,487,71,338
 "Staten Island, NY",487,65,340
 PA,485,59,365
 "Nagpur, India",485,32,360
-Ottawa,485,71,337
-"Cambridge, MA",481,52,349
+"Cambridge, MA",482,52,350
 Pittsburgh,480,49,347
+"Manchester, UK",480,70,323
+Philly,480,62,375
 "Southampton, England",479,88,334
-"Manchester, UK",479,70,322
 "Toronto, Ontario, Canada",479,39,360
-Philly,479,62,374
-"Mesa, AZ",477,63,340
+"Mesa, AZ",478,63,340
 Dallas,477,63,352
 Sri Lanka,477,52,339
 Uk,476,63,312
 Baltimore,476,34,376
-"Berkeley, CA",469,29,329
-lagos,468,88,366
+"Berkeley, CA",470,29,330
+lagos,469,89,367
+"Jammu, Jammu And Kashmir",467,28,318
 "Providence, RI",467,38,341
 The World,466,52,338
 MY,466,102,332
-"Jammu, Jammu And Kashmir",466,28,317
-"Norwich, England",465,99,328
+"Norwich, England",466,100,329
 "Porto, Portugal",465,137,378
 Karachi,465,77,344
 日本,465,30,375
@@ -548,20 +548,20 @@ Karachi,465,77,344
 "Lincoln, NE",464,37,321
 Kingdom of Saudi Arabia,463,43,349
 "Queensland, Australia",461,78,324
+"Gainesville, FL",461,60,341
 scotland,461,85,327
 "Santiago, Chile",461,38,325
-"Gainesville, FL",460,60,340
 Botswana,459,50,349
-Montreal,456,65,343
-Washington State,456,37,330
+Montreal,457,66,344
+Washington State,457,37,331
 "Ile-de-France, France",455,79,349
+"Anaheim, CA",453,64,323
 "Norfolk, VA",452,44,337
-"Anaheim, CA",452,64,322
 "Kerala, India",452,37,350
-Narnia,450,87,323
+Narnia,451,87,323
+"Soweto, South Africa",451,32,349
+"Spokane, WA",450,51,315
 Kansas City,450,49,326
-"Soweto, South Africa",450,32,348
-"Spokane, WA",449,51,314
 "Syracuse, NY",449,54,312
 Gotham City,449,44,298
 East Coast,448,65,333
@@ -569,56 +569,56 @@ East Coast,448,65,333
 "Chicago, Illinois",445,54,329
 Newcastle,445,74,322
 Afghanistan,442,210,366
-"Anchorage, AK",440,46,334
+"Anchorage, AK",441,46,335
+TEXAS,440,52,315
+"Orange County, CA",440,69,295
 "Columbia, SC",440,44,316
-TEXAS,439,52,314
 Universe,439,64,331
 manchester,438,76,308
-"Orange County, CA",438,69,293
+Cardiff,438,65,292
 San Francisco Bay Area,437,35,330
 "Bakersfield, CA",437,43,312
-Cardiff,437,64,292
 "Fayetteville, NC",435,38,334
+"Lisboa, Portugal",435,90,334
+fan account,433,45,299
 "London, United Kingdom",433,67,291
-"Lisboa, Portugal",432,90,331
-fan account,431,45,298
+VA,431,45,319
 Kent,430,62,279
-VA,429,45,317
 "Lagos,Nigeria",427,87,307
+"Huntsville, AL",424,32,306
 "Medellín, Colombia",424,23,384
+België,423,100,313
 "Surat, India",423,40,309
-"Huntsville, AL",423,32,305
-België,422,99,313
+Maine,423,50,296
 "Jackson, MS",422,49,309
-Maine,422,50,295
-CT,421,59,310
+CT,422,59,311
 Lost,421,80,325
 Missouri,420,50,283
 +63,420,61,333
+"Hamilton, Ontario",420,73,299
 "Columbus, Ohio",420,50,295
 North America,419,51,297
 "Toledo, OH",419,38,314
 lost,419,83,316
-"Hamilton, Ontario",419,72,298
 757,418,53,324
 "York, England",417,50,290
+"Boise, ID",417,56,295
 Winterfell,416,79,318
-"Boise, ID",416,56,295
 Netherlands,416,49,298
 Turkey,414,78,320
 Internet,413,29,315
 Washington,413,58,292
-"Tacoma, WA",411,47,300
+"Tacoma, WA",412,47,301
+"Greenville, SC",411,63,306
+world,411,47,290
 "Bhopal, India",411,25,293
-"Greenville, SC",410,63,306
-world,410,47,289
+USA,410,41,287
 "Amsterdam, The Netherlands",409,53,296
-USA,408,41,285
 "Mobile, AL",408,33,281
 Quezon City,408,93,291
 "New York, New York",407,30,304
+Minneapolis,407,30,307
 "College Station, TX",407,62,292
-Minneapolis,405,30,305
 Bangladesh,404,35,257
 "Indore, India",404,15,262
 "Doha, Qatar",403,60,309
@@ -626,29 +626,29 @@ Bangladesh,404,35,257
 European Union,399,46,294
 "Lima, Peru",399,47,268
 "Galway, Ireland",398,78,284
+"San Antonio, Texas",398,55,297
+"Akron, OH",398,44,292
 "Toronto, ON",397,44,259
 Lahore,397,70,279
-"San Antonio, Texas",397,55,296
 .,396,62,284
-"Akron, OH",396,44,290
-"Victoria, Australia",394,65,289
+"Victoria, Australia",395,65,289
 "Lagos, Nigeria.",392,61,292
 "Dundee, Scotland",390,87,292
+Zimbabwe,389,66,273
 Pacific Northwest,387,30,281
-Zimbabwe,387,66,272
 "Post Falls, ID",386,6,378
 Austria,386,36,275
 bangalore,383,44,289
 "Des Moines, IA",382,38,274
-Republic of Korea,382,38,256
 "St Petersburg, FL",382,51,292
+Republic of Korea,382,38,256
 "Kanpur, India",381,47,299
 "Denver, Colorado",380,76,282
 "Bhubaneshwar, India",380,22,294
 Space,379,46,276
-Parts Unknown,376,35,271
+Parts Unknown,377,35,271
 "Newark, NJ",376,41,264
-"Hull, England",372,84,237
+"Hull, England",373,84,237
 East London,372,46,294
 "Vermont, USA",371,44,262
 "Calgary, AB. Canada",371,232,231
@@ -656,35 +656,35 @@ Amsterdam,370,36,276
 "Tuscaloosa, AL",370,38,274
 "Reading, England",369,59,250
 "Vancouver, WA",369,37,266
-Uganda,367,30,263
+Uganda,368,30,263
 "Atlanta, Georgia",366,32,274
 Россия,366,36,255
 Antarctica,366,39,265
+"Athens, GA",366,33,265
 Iran,365,24,269
-"Athens, GA",365,33,265
-New Hampshire,363,49,263
+New Hampshire,365,50,264
 Arkansas,362,53,251
 "Madrid, Spain",362,67,261
 "Davao City, Davao Region",362,95,287
-The Internet,361,30,269
+The Internet,362,30,270
+"Barcelona, Spain",361,44,263
+"London, Ontario",360,53,282
 england,360,60,267
 Brighton,359,47,253
-"London, Ontario",359,53,281
-"Barcelona, Spain",359,43,261
 "Charlottesville, VA",359,33,264
 new delhi,359,24,266
 "Madhya Pradesh, India",358,24,234
+Pluto,357,36,269
 "Derby, England",356,72,257
 multifandom,356,43,264
-Pluto,355,36,269
 toronto,355,57,255
-Türkiye,354,40,261
 "Polokwane, South Africa",354,36,279
 "Birmingham, UK",354,54,238
+Türkiye,354,40,261
 "Rawalpindi, Pakistan",353,70,272
 "Oslo, Norway",353,43,269
+Russia,352,47,258
 Denver,352,37,249
-Russia,351,47,257
 "Portsmouth, England",351,67,259
 Kashmir,349,22,273
 "Ontario, CA",349,68,284
@@ -700,121 +700,121 @@ Tokyo,338,30,258
 Twitter,337,45,258
 "Allahabad, India",336,20,242
 "West Bengal, India",335,16,245
+houston,335,41,237
+"Berlin, Deutschland",335,50,242
+home,335,51,248
 "Myrtle Beach, SC",334,49,244
+"Santa Monica, CA",334,28,253
 "Monterrey, Nuevo León",334,72,259
 ohio,334,43,255
-houston,334,41,236
-"Berlin, Deutschland",334,50,241
-home,334,50,248
-"St Paul, MN",333,32,240
+"St Paul, MN",334,32,240
 "Pasadena, CA",333,35,239
-"Santa Monica, CA",333,28,253
 "Brussels, Belgium",333,49,239
 here,333,48,234
 Namibia,333,46,253
 "Katy, TX",333,53,235
-🇬🇧,331,38,240
+🇬🇧,332,38,240
+"District of Columbia, USA",332,32,246
 MD,331,36,237
-"District of Columbia, USA",331,32,245
 "Hell, MI",331,48,249
 "Ottawa, Canada",331,37,233
 "Peshawar, Pakistan",330,88,236
 "Mississauga, Ontario",329,43,233
 hogwarts,328,73,250
 Chandigarh,328,72,268
+Indianapolis,327,35,231
 "Barcelona, España",326,45,228
+"Miami, Florida",326,32,234
 Bombay,326,29,254
-"Miami, Florida",325,32,233
-Indianapolis,325,34,230
 "Lille, France",325,59,270
 "Asheville, NC",324,23,218
 Hertfordshire,322,45,209
+"Москва, Россия",322,37,229
 International,322,32,252
 neverland,322,72,235
+"Huntington Beach, CA",322,44,232
 "Nova Scotia, Canada",321,42,222
-"Москва, Россия",321,37,229
+"Tokyo-to, Japan",320,42,235
 "Greater Accra, Ghana",320,50,225
-"Huntington Beach, CA",320,44,230
 "Pietermaritzburg, South Africa",319,20,260
+"Miami Beach, FL",319,30,243
 "Sarasota, FL",319,34,224
-"Tokyo-to, Japan",319,42,234
 Norwich,319,50,214
+Orlando,318,27,232
+"New Haven, CT",318,27,197
 Barbados,317,41,237
-"Miami Beach, FL",317,30,241
-Orlando,317,27,231
-"New Haven, CT",317,27,196
 "Chennai, Tamil Nadu",316,18,252
 "Bogotá, D.C., Colombia",316,37,225
+"Stockholm, Sverige",316,57,239
 philippines,316,55,220
-"Stockholm, Sverige",315,57,238
 Costa Rica,315,49,226
 Ontario,314,40,229
+St. Louis,314,15,236
 "Québec, Canada",314,42,219
 Utah,314,44,206
-St. Louis,313,15,236
 🇺🇸,313,33,240
 "Boulder, CO",313,25,219
 hyderabad,312,28,238
 Việt Nam,311,14,212
 "Sandton, South Africa",311,23,246
+los angeles,311,31,233
 New Mexico,310,29,224
-los angeles,310,31,232
+Calgary,309,32,204
 "Midrand, South Africa",308,19,246
-Calgary,308,32,203
 Brisbane,306,34,236
 National Capital Region,306,60,227
+"Morgantown, WV",306,30,217
 "Long Island, New York",305,45,216
 Lucknow,305,32,226
-"Morgantown, WV",305,30,217
+Abu Dhabi,304,29,235
 Tx,303,25,216
 "Bolton, England",303,60,205
 "Stoke-on-Trent, England",303,55,201
 "Lusaka, Zambia",303,34,191
-Abu Dhabi,303,29,234
+"Northampton, England",303,74,215
 "Lawrence, KS",302,120,200
 "Stockton, CA",302,41,217
-"Northampton, England",302,74,214
+"Pensacola, FL",302,25,218
 "City of London, London",302,39,225
-"Pensacola, FL",301,25,217
+MA,301,38,227
 "Fort Wayne, IN",301,38,197
 GA,300,22,232
-MA,300,38,226
 "Johor Bahru, Johor",299,69,184
 "Murfreesboro, TN",299,31,210
 liverpool,299,38,215
 Cambridge,299,48,196
 +65,299,42,220
+Romania,299,19,191
 "Jersey City, NJ",299,31,203
-Romania,298,19,190
-ǝʌɐ uooɯʎǝuoɥ,297,52,203
+ǝʌɐ uooɯʎǝuoɥ,298,52,204
+Cleveland,298,26,216
+"Cleveland, Ohio",297,31,214
 "Geneva, Switzerland",297,22,224
 "Henderson, NV",297,31,225
-"Cleveland, Ohio",296,31,213
-Cleveland,296,26,215
-Dreamville,295,38,226
+Dreamville,296,38,226
 ireland,295,58,206
+"Modesto, CA",295,38,210
 "กรุงเทพมหานคร, ประเทศไทย",295,3,228
-hope world,294,22,206
 "Lyon, France",294,43,229
+hope world,294,22,206
 SC,294,44,218
 South London,293,46,216
 Southampton,293,128,225
+"Santa Cruz, CA",292,31,212
 Northern Virginia,292,27,214
-"Modesto, CA",292,38,208
 "Vienna, Austria",292,42,205
 World Wide,291,18,235
-"Santa Cruz, CA",291,31,211
 wonderland,291,48,227
+"Winston-Salem, NC",290,44,221
 "Victoria, British Columbia",290,54,210
-"Hollywood, FL",289,42,209
 Asgard,289,19,228
-"Winston-Salem, NC",289,44,220
 PNW,289,34,208
+"Hollywood, FL",289,42,209
 "Guwahati, India",289,25,196
+Surrey,288,44,196
 "Nerul, Navi Mumbai",288,113,207
 "Warszawa, Polska",287,21,170
 Edmonton,287,32,193
-Surrey,287,44,195
 Long Island,286,41,193
 "Worcester, MA",286,43,211
 The Moon,286,33,212
@@ -825,94 +825,94 @@ malaysia,284,59,184
 "Brisbane, Australia",284,29,218
 "Lincoln, England",283,55,192
 "Faridabad, India",283,13,182
-"Dar es Salaam, Tanzania",282,22,190
 The United States of America,282,22,207
 "Inglewood, CA",282,49,226
-"Abu Dhabi, United Arab Emirates",278,22,218
+"Dar es Salaam, Tanzania",282,22,190
+"Abu Dhabi, United Arab Emirates",280,22,220
+"Marietta, GA",278,32,202
+planet earth,278,36,192
 Leicester,277,45,183
-planet earth,277,36,191
 RVA,277,34,213
 🌍,276,42,199
-"Marietta, GA",276,32,201
 "Himachal Pradesh, India",276,20,207
 "Tyler, TX",275,22,197
 Oxford,275,32,189
+"Coimbatore, India",274,16,193
 "Jakarta, Indonesia",274,29,188
 "Swansea, Wales",274,46,172
-"Coimbatore, India",274,16,193
+Rio de Janeiro,273,40,221
 "Las Vegas, Nevada",273,20,187
 "National Capital Region, Repub",273,52,192
 "Rustenburg, South Africa",272,20,218
 "Ludhiana, India",271,34,164
-Rio de Janeiro,271,40,219
 "Tema, Ghana",271,46,187
 "Warrington, England",270,54,181
 Rhode Island,270,22,182
+"Bristol, UK",270,23,177
+"Nairobi,Kenya",270,52,197
 Qatar,269,23,204
-"Bristol, UK",269,23,176
-"Nairobi,Kenya",269,52,196
 "Dehradun, India",269,29,197
 Gurugram,268,22,200
 nj,268,52,218
 Somewhere over the rainbow,268,39,187
+"Tokyo, Japan",268,24,210
 São Paulo,267,37,216
 Gotham,267,36,200
-"Tokyo, Japan",267,24,210
 "Compton, CA",266,39,210
 Cheshire,266,53,178
 "Hartford, CT",265,16,204
+NIGERIA,265,39,215
 "Garland, TX",265,38,201
 Nashville,265,34,187
-NIGERIA,264,39,214
 MIA,264,48,199
 miami,264,34,208
 "Irving, TX",264,32,188
-"Bournemouth, England",262,50,165
 Guatemala,262,32,193
+"Bournemouth, England",262,50,165
 Jakarta,262,47,188
+"Plymouth, England",261,45,174
 "Montgomery, AL",261,26,186
-"Plymouth, England",260,44,174
+"Preston, England",261,46,191
+Washington D.C.,261,32,189
+Bahamas,260,32,186
+wakanda,260,44,195
 "Santa Barbara, CA",260,24,189
 "Hackney, London",260,31,191
-"Preston, England",260,45,190
 "Muscat, Oman",260,27,201
-Washington D.C.,260,32,188
-Bahamas,259,32,185
 "Salford, England",259,43,184
 South Jersey,259,28,195
-wakanda,258,44,193
 |-/,258,68,172
 australia,257,38,190
 Bulgaria,257,21,177
 "Pune, Maharashtra",257,18,167
 Utopia,256,31,173
 "Kumasi, Ghana",256,34,183
+"New Brunswick, Canada",256,34,192
 glasgow,256,43,191
 Cincinnati,256,39,194
 WorldWide,256,15,172
 "Wyoming, USA",255,19,189
 "Manila City, National Capital",255,79,191
 space,255,54,200
-"New Brunswick, Canada",255,34,191
 singapore,255,37,177
 "Irvine, CA",255,31,191
 South Wales,254,47,172
 "Evansville, IN",253,20,188
 D(M)V,253,36,188
 پاکستان,253,58,191
+"Jacksonville Beach, FL",252,29,189
 Cyprus,252,30,188
 Estados Unidos,252,17,204
 Mississippi,252,28,180
-"Jacksonville Beach, FL",251,29,189
-"Silver Spring, MD",250,16,185
+"Silver Spring, MD",251,16,185
 London.,250,13,122
 "Columbus, GA",250,25,185
 The Universe,250,31,190
 ...,250,33,178
 EU,250,20,186
+Behind you,249,31,187
 "Istanbul, Turkey",249,53,181
 TN,248,27,186
-Behind you,248,31,187
 "Cochin, India",248,19,193
 Purgatory,247,37,197
 "Cincinnati, Ohio",247,30,192
@@ -921,10 +921,11 @@ nc,246,24,177
 "Durham, England",246,57,164
 Yorkshire and The Humber,246,31,164
 🏳️‍🌈,246,27,192
+"Centurion, South Africa",246,20,186
 대한민국 서울,246,13,180
-"Centurion, South Africa",245,20,185
 "Albany, NY",245,36,172
 Peru,244,26,172
+"Flagstaff, AZ",244,32,185
 "Lansing, MI",244,38,171
 Ελλάς,244,26,189
 "Kildare, Ireland",244,45,180
@@ -932,84 +933,84 @@ Peru,244,26,172
 "Vancouver, Canada",244,24,164
 Idaho,244,31,186
 Republic of Croatia,243,37,186
-"Flagstaff, AZ",243,32,185
 MN,243,27,182
 kenya,243,30,166
 "Tampa, Florida",243,25,184
 "Santa Ana, CA",243,38,173
+nigeria,242,39,191
 kolkata,242,21,185
+San Antonio,242,37,186
 "Kuala Lumpur, Malaysia",241,48,157
-nigeria,241,39,190
-San Antonio,241,37,185
 Great Britain,241,24,167
 "Brooklyn, New York",240,22,174
 "Norman, OK",240,32,187
 "Baltimore, 地球, Cape Breton",240,139,161
+SF Bay Area,239,28,170
 "Kuching, Sarawak",239,46,170
 germany,239,34,181
 "Lancaster, PA",239,43,187
 #DV #CSA  #Daniel_Morgan,239,19,198
 "Ghaziabad, India",239,13,168
-SF Bay Area,238,28,169
+"Sao Paulo, Brazil",238,25,192
 "Montreal, Canada",238,31,178
-"Sao Paulo, Brazil",237,25,191
+Staffordshire,236,22,156
+"Helsinki, Finland",236,29,173
 "Chandler, AZ",236,32,186
 UAE,236,48,183
-Staffordshire,235,22,155
 Jakarta Capital Region,235,19,182
-"Helsinki, Finland",235,28,172
 Phoenix,235,28,184
 new jersey,235,28,183
 "Wien, Österreich",234,27,167
 Coimbatore,234,20,176
 "Lafayette, LA",234,33,173
-"Quezon City, National Capital",233,57,187
+"Quezon City, National Capital",234,57,188
+"Oxnard, CA",233,45,175
+"Plano, TX",233,32,159
 mars,232,51,179
 West Virginia,232,26,160
 "Limerick, Ireland",232,43,143
-"Plano, TX",232,32,158
 Moon,232,32,171
 "Fort Myers, FL",232,30,166
 "Salem, OR",231,22,169
-"Oxnard, CA",231,45,173
 "San Bernardino, CA",231,37,177
 Lancashire,230,34,156
+221B Baker Street,230,30,173
 "Victoria Island, Nigeria",230,50,198
 "Kalamazoo, MI",230,31,159
 "Kedah, Malaysia",230,51,135
+michigan,229,33,162
 West Midlands,229,28,149
 🌎,229,26,171
-"Sunderland, England",228,38,150
-221B Baker Street,228,30,171
 Austin,228,24,170
 "South Dakota, USA",228,28,158
-michigan,228,33,161
+"Sunderland, England",228,38,150
+Online,228,22,167
 "Riyadh, Kingdom of Saudi Arabia",228,19,181
+#blacklivesmatter,228,32,184
 "Luton, England",228,31,158
 "Frisco, TX",227,25,164
 "Decatur, GA",227,18,167
 Alaska,227,18,174
 "Hollywood, Los Angeles",227,25,157
 "Mombasa, Kenya",227,26,143
-Online,227,22,166
-#blacklivesmatter,227,32,183
 "Orlando, Florida",227,21,166
-"Perak, Malaysia",226,35,139
 Riyadh,226,15,164
+"Perak, Malaysia",226,35,139
+my bed,226,38,168
 ♡,226,34,174
 "Ventura, CA",226,26,160
+"Naples, FL",226,37,171
 West Coast,226,33,168
-"Naples, FL",225,37,170
 atl,225,38,189
 INTL corp,225,1,195
+"Shreveport, LA",225,27,158
 U.K.,225,20,160
 Hungary,225,38,155
 "Portland, ME",224,26,153
 Manila City,224,54,174
 "Youngstown, OH",224,28,177
-"Shreveport, LA",224,27,157
 European Union 🇪🇺,224,25,162
-my bed,223,38,166
+"Livingston, Scotland",223,74,160
 "Hollywood, CA",223,3,166
 "Sindh, Pakistan",223,38,151
 "Waco, TX",223,17,143
@@ -1017,53 +1018,52 @@ bed,223,33,178
 "Welkom, South Africa",223,35,179
 "Yogyakarta, Indonesia",222,29,148
 Global Citizen,222,32,164
-"Livingston, Scotland",222,73,159
 Upstate NY,222,21,163
 "West Region, Singapore",221,33,160
 Cumbria,221,28,134
 "Wilmington, NC",221,28,156
+"Clearwater, FL",220,27,165
 Dominican Republic,220,20,176
+Cloud 9,220,31,161
 🇳🇬,220,42,159
-"Middlesbrough, England",219,50,148
-"Clearwater, FL",219,27,164
 대한민국,219,8,157
+Devon,219,38,148
+"Middlesbrough, England",219,50,148
 SAAD Computer Systems,219,156,176
 المملكة العربية السعودية,219,19,170
-Devon,219,38,148
-Cloud 9,219,30,160
 ATX,219,27,170
 Venus,218,29,157
 "Palm Springs, CA",218,22,161
 "Mangalore, India",218,28,161
+The South,218,22,160
 "McAllen, TX",218,29,157
 Panamá,217,31,165
 Konoha,217,46,167
 "Mafikeng, South Africa",217,16,172
-Kekistan,217,28,152
 "Phoenix, Arizona",217,21,152
+Kekistan,217,28,152
 "Beverly Hills, CA",217,37,160
-The South,217,22,159
-Stockholm,216,31,163
 "Daytona Beach, FL",216,29,164
+Stockholm,216,31,163
 "Rome, Italy",216,17,137
+"Exeter, England",216,34,148
+"Burbank, CA",216,23,171
 "Caracas, Venezuela",215,38,171
-"Exeter, England",215,34,148
 "Chapel Hill, NC",215,25,146
-"Milton Keynes, England",214,36,145
-"Lowell, MA",214,32,171
-"Yonkers, NY",214,27,162
-Azania,214,17,164
-"Yorkshire and The Humber, England",214,33,147
 Hollywood,214,17,159
 "Gurgaon, Haryana",214,7,178
+"Milton Keynes, England",214,36,145
+"Lowell, MA",214,32,171
+Azania,214,17,164
+"Yorkshire and The Humber, England",214,33,147
 "Assam, India",214,25,153
-"Burbank, CA",214,23,169
+"Yonkers, NY",214,27,162
+Panama,213,30,152
 "Bradford, England",213,47,146
 bharat,213,15,159
-Panama,212,30,151
 she/they,212,23,155
+DTX,212,24,169
 🇨🇦,211,33,149
-DTX,211,24,168
 LONDON,211,15,161
 "Newport Beach, CA",211,25,155
 "Falkirk, Scotland",210,65,149
@@ -1079,6 +1079,8 @@ Kaduna,209,39,157
 "Windsor, Ontario",208,48,142
 North London,208,29,153
 WA,208,20,152
+Hawaii,208,19,139
+Derbyshire,208,44,140
 NEW DELHI,208,21,154
 "Santa Rosa, CA",208,20,150
 Nairobi Kenya,208,23,153
@@ -1088,70 +1090,68 @@ atlanta,207,30,161
 "Roma, Lazio",207,29,161
 Sydney Australia,207,26,139
 Beacon Hills,207,26,145
-Derbyshire,207,44,140
-Hawaii,206,19,137
-Gauteng,206,7,160
+"Clarksville, TN",207,25,149
+Malta,206,26,136
 Johannesburg South Africa,206,20,166
+Gauteng,206,7,160
 idk,206,39,145
-"Clarksville, TN",206,25,148
-Malta,205,26,135
 indonesia,205,15,122
+Westeros,205,32,166
 "Kent, UK",205,17,140
 "Lisbon, Portugal",205,24,156
-Suomi,204,34,135
-Westeros,204,32,166
-contact@gracedurbin.com,204,135,115
 "Edmond, OK",204,31,145
+"East Coast, USA",204,33,149
 South,204,48,154
+Suomi,204,34,135
+contact@gracedurbin.com,204,135,115
 "Roanoke, VA",204,25,160
 "NYC, NY",203,162,102
-"East Coast, USA",203,33,148
 "Thane, India",203,28,153
 West Yorkshire,203,35,153
 Libya,202,33,157
 "West Hollywood, CA",202,21,141
 Mexico City,201,22,153
 Reality,201,19,145
+essex,201,47,145
 Ecuador,200,30,128
-essex,200,46,145
 Jupiter,200,34,154
 Nevada,199,19,148
 Brussels,199,27,139
 "Toulouse, France",199,35,154
 Iraq,198,39,157
+"Houston, Tx",198,28,149
+"Chesapeake, VA",197,25,138
 "Fairfax, VA",197,25,144
 Paraguay,197,34,149
 Chicagoland,197,16,152
-"Chesapeake, VA",197,25,138
 "Newport News, VA",197,23,155
 blm,197,21,148
-"Houston, Tx",197,28,148
 127.0.0.1,197,22,152
+"Fargo, ND",196,30,136
+Milwaukee,196,17,150
 iran,196,9,145
 fl,196,26,164
 "Madrid, España",196,26,147
 "Rockford, IL",196,26,129
-Milwaukee,196,17,150
+HELL,196,13,139
 "Sharjah, United Arab Emirates",196,15,147
-"Fargo, ND",196,30,136
 Kuala Lumpur Federal Territory,196,37,150
 New Delhi India,196,9,151
-HELL,195,13,139
+"Edinburg, TX",195,31,147
+Guam,195,20,157
 "England, UK",195,26,147
 Middle Earth,195,17,147
+"Beaumont, TX",195,19,144
 pune,195,15,141
-Hyrule,194,26,137
 Nebraska,194,26,142
-"Edinburg, TX",194,31,146
+Hyrule,194,26,137
 "San Diego, California",194,18,149
 Tanzania,194,15,142
-"Beaumont, TX",194,19,143
-"Brampton, Ontario",193,33,143
-Guam,193,19,155
 "Jos, Nigeria",193,23,140
+"Brampton, Ontario",193,33,143
 Isle of Man,192,19,147
+"Tucson, Arizona",192,11,146
 Jaipur,192,22,131
-"Tucson, Arizona",191,11,145
 South Korea,191,24,149
 Montana,191,21,136
 "Rio de Janeiro, Brazil",191,25,156
@@ -1168,178 +1168,178 @@ Jeddah,190,15,147
 "Peterborough, England",190,35,117
 "Brighton, UK",190,30,129
 Memphis,189,26,145
+Outer Space,189,16,138
+Riverdale,189,40,144
+Coventry,189,27,145
+"Overland Park, KS",189,25,142
 Brunei,189,46,121
 Canberra,189,22,132
-Outer Space,189,16,138
 "Ikeja, Nigeria",189,39,137
+"Macon, GA",189,28,144
 "Chester, England",189,35,122
 "Palo Alto, CA",189,20,144
 "Fort Collins, CO",189,25,134
-Coventry,188,27,144
 "Green Bay, WI",188,18,133
 "Multan, Pakistan",188,36,139
 "Eugene, Oregon",188,9,136
 Makati City,188,39,143
-"Macon, GA",188,28,143
-Riverdale,188,40,143
 ¯\_(ツ)_/¯,188,27,133
 "McKinney, TX",188,23,128
 "Jodhpur, India",187,14,130
 "Hyderabad, Pakistan",187,52,108
-"Overland Park, KS",187,25,141
 "Detroit, Michigan",186,31,124
 Republic of Texas,186,17,128
+"Kitchener, Ontario",186,28,122
 "Greater Noida, India",186,31,138
-"Kitchener, Ontario",185,28,121
-Kampala,184,37,135
-"Bath, England",184,41,129
+"Brasília, Brasil",185,27,155
 "Edmonton, Alberta, Canada",184,34,131
-"Brasília, Brasil",184,27,154
 Montréal,184,28,139
 Abuja Nigeria,184,36,150
+Kampala,184,37,135
+"Bath, England",184,41,129
+Accra,184,25,117
 "Curitiba, Brasil",184,32,141
 "Sabah, Malaysia",184,38,119
 "Jacksonville, Florida",184,23,135
 "Colchester, England",183,29,138
 Wirral,183,23,123
-Accra,183,25,116
 philly,183,26,147
-"Oceanside, CA",182,31,128
 "Wolverhampton, England",182,45,114
+"Oceanside, CA",182,31,128
 "Hattiesburg, MS",182,34,138
 "Kingston, Ontario",182,20,127
 jersey,182,35,143
+"Benin-City, Nigeria",181,30,138
 "Saskatoon, Saskatchewan",181,21,128
 "Cape Coral, FL",181,17,130
 🇮🇳,181,16,126
 Broward,181,24,137
+"Northern Ireland, United Kingdom",181,37,126
 ny,181,25,137
 "Gilbert, AZ",181,20,129
+Nicaragua,180,5,139
 "Salt Lake City, Utah",180,39,139
+"Agra, India",180,14,131
 "Frederick, MD",180,24,126
 SATX,180,23,135
 "Annapolis, MD",180,18,128
-Nicaragua,180,5,139
-"Agra, India",180,14,131
-"Benin-City, Nigeria",180,30,137
-"Northern Ireland, United Kingdom",180,37,126
+"Islington, London",180,28,123
 "Copenhagen, Denmark",180,19,135
 "Brooklyn, NY - All podcast episodes available on our website.",180,4,125
+Dublin Ireland,179,28,150
 "Kabul, Afghanistan",179,94,146
 Iceland,179,28,141
 North Wales,179,26,124
-"Islington, London",179,28,122
 "Croydon, London",179,23,137
-Dublin Ireland,179,28,150
 "Seoul, South Korea",179,24,123
 "Paris, Ile-de-France",179,26,144
 🇿🇦,179,16,138
-MI,178,20,131
 Noida,178,17,144
 "Blackpool, England",178,41,131
 "Bethesda, MD",178,27,128
+MI,178,20,131
+"Salinas, CA",178,21,139
 boston,178,29,144
 "Harrisburg, PA",177,15,140
 "Quezon City, Philippines",177,56,128
 Senegal,177,5,128
+Anywhere,177,31,119
 Midgard,177,7,120
 "Enugu, Nigeria",177,29,127
-Anywhere,177,31,119
-D[M]V,177,14,128
 "Hampton, VA",177,19,131
-Schweiz,177,16,128
 Bangkok,177,21,132
-"Salinas, CA",177,21,138
+D[M]V,177,14,128
+Schweiz,177,16,128
 301,177,20,136
+Delaware,176,23,133
 "Doncaster, England",176,45,108
 Area 51,176,24,145
-Delaware,176,23,133
 "Erie, PA",176,24,126
 People's Republic of China,176,15,118
 West London,175,20,133
 "Wales, UK",175,24,124
-Swansea,175,14,137
 in bed,175,24,134
+Swansea,175,14,137
+Canada 🇨🇦,174,9,131
+"Killeen, TX",174,12,122
+"Inverness, Scotland",174,37,122
 "North Las Vegas, NV",174,20,130
 North Yorkshire,174,22,111
 "Manitoba, Canada",174,21,121
-"Inverness, Scotland",174,37,122
 "Coral Springs, FL",174,26,129
+"Санкт-Петербург, Россия",174,19,118
 "Flint, MI",174,14,138
+Tampa,173,13,134
 "Ranchi, India",173,11,122
 BHARAT,173,19,127
-Canada 🇨🇦,173,9,130
-Tampa,173,13,134
-"Killeen, TX",173,12,121
 "North Dakota, USA",173,27,118
 "Orange, CA",173,18,136
-"Санкт-Петербург, Россия",173,19,118
 BLM,173,23,147
 NYC↔#LongIsland-Atlantic~~,172,12,151
-"Bowling Green, KY",172,19,121
 All Over,172,40,108
 "Vishakhapatnam, India",172,10,114
+"Lakeland, FL",172,19,113
+"Bowling Green, KY",172,19,121
+"Strasbourg, France",172,41,146
 "Midwest, USA",172,11,124
-"Lakeland, FL",171,19,112
-"State College, PA",171,24,129
-"Palmdale, CA",171,24,129
-"Antwerp, Belgium",171,20,128
 Bhubaneswar,171,13,124
-"Strasbourg, France",171,41,145
+"Palmdale, CA",171,24,129
+Hull,171,25,127
+"Bulawayo, Zimbabwe",171,26,121
+"Antwerp, Belgium",171,20,128
+"State College, PA",171,24,129
+the moon,171,35,129
 ?,171,33,131
+"Vododara, India",170,18,123
+"Santa Clarita, CA",170,15,129
 maryland,170,17,127
 "Katsina, Nigeria",170,16,105
-"Vododara, India",170,18,123
 "Munich, Bavaria",170,21,121
-"Santa Clarita, CA",170,15,129
-"Daegu, Republic of Korea",170,12,127
+"Sioux Falls, SD",170,19,127
 Valhalla,170,27,138
-the moon,170,35,128
-Hull,170,25,126
-"Bulawayo, Zimbabwe",170,26,120
+"Daegu, Republic of Korea",170,12,127
 "Busan, Republic of Korea",170,14,114
 "Grand Prairie, TX",169,25,130
-"South Bend, IN",169,11,122
-"Sioux Falls, SD",169,18,126
 "Antwerpen, België",169,47,135
+"South Bend, IN",169,11,122
 방탄소년단,169,9,122
 Asia,169,23,99
-"Abilene, TX",168,18,120
 Gandhinagar Gujrat,168,58,132
 "Torrance, CA",168,24,123
+"Iowa City, IA",168,13,115
+"Abilene, TX",168,18,120
+"Newport, Wales",168,37,123
 "Bali, Indonesia",168,21,112
 "Paterson, NJ",168,14,122
-"Iowa City, IA",167,13,115
 moon,167,30,124
+"Milan, Italy",167,28,131
 "Omaha, Nebraska",167,33,129
 Rome,167,15,120
-"Milan, Italy",167,28,131
 🇲🇾,167,32,114
+"Cary, NC",166,26,109
 Saturn,166,19,131
-"Newport, Wales",166,36,122
-"Cary, NC",165,26,109
 Vegas,165,22,121
+The Void,165,18,120
+Bedford,165,21,128
 Honeymoon ãve.,165,32,117
 heaven,165,24,129
 "Mumbai,India",165,7,118
+"Athens, Greece",165,14,131
 Omnipresent,165,14,118
 جمهوری اسلامی ایران,165,12,127
-Bedford,165,21,128
 "Bordeaux, France",165,26,123
+"Provo, UT",164,25,117
 Ukraine,164,22,127
 paris,164,22,139
-"Provo, UT",164,25,117
-The Void,164,18,119
 Украина,164,25,97
 "Springfield, MO",164,14,122
-"Warsaw, Poland",163,22,117
 "Ipswich, England",163,33,117
 WORLDWIDE,163,15,125
-"Andhra Pradesh, India",163,15,110
 Ciudad Autónoma de Buenos Aire,163,17,106
+"Andhra Pradesh, India",163,15,110
 "Oxford, MS",163,14,117
-"Athens, Greece",163,14,129
 "Odessa, TX",163,14,120
+"Warsaw, Poland",163,22,117
 BTS,163,7,116
 "Sugar Land, TX",162,20,124
 "Hampshire, UK",162,25,117
@@ -1347,495 +1347,495 @@ The North,162,24,116
 "St. Paul, MN",162,13,113
 Melbourne Australia,162,23,112
 Milky Way,162,16,112
+"Rancho Cucamonga, CA",161,20,122
+Somerset,161,25,117
 arizona,161,20,125
-"Fullerton, CA",161,17,119
 "Spring, TX",161,25,114
 Sudan,161,17,112
 Estonia,161,35,114
-"Rancho Cucamonga, CA",161,20,122
+"Statesboro, GA",161,18,120
+"Fullerton, CA",161,17,119
 "Canterbury, England",161,25,118
-Somerset,161,25,117
 Oklahoma City,161,26,114
 Soweto,160,7,128
+"Dayton, Ohio",160,7,135
+"Malibu, CA",160,22,124
 CyberSpace,160,4,124
 "Randburg, South Africa",160,16,126
-"Statesboro, GA",160,18,119
-"Dayton, Ohio",160,7,135
 San Junipero,160,23,119
 Syria,160,14,107
 "Chico, CA",160,21,111
-"Malibu, CA",160,22,124
 "Mthatha, South Africa",160,16,125
 Bosnia and Herzegovina,160,13,111
 NOLA,160,19,116
-"Gloucester, England",159,37,115
-dmv,159,20,121
-"Silicon Valley, CA",159,7,112
 "Springfield, IL",159,16,106
-"Gaborone, Botswana",158,21,114
-mnl,158,47,120
-"Kolkata, West Bengal",158,7,122
+dmv,159,20,121
+"Gloucester, England",159,37,115
+"Silicon Valley, CA",159,7,112
 Derby,158,34,111
+"South Dublin, Ireland",158,24,116
+"Gaborone, Botswana",158,21,114
+"Kolkata, West Bengal",158,7,122
 pakistan,158,23,109
+mnl,158,47,120
 "East Lansing, MI",158,32,109
-"Cambridge, UK",157,14,98
+"Scranton, PA",157,13,122
 Houston Texas,157,21,120
-"South Dublin, Ireland",157,23,115
+"Bad Wildbad, Deutschland",157,13,108
+Kingdom of Heaven,157,52,150
 cali,157,22,129
+"Norfolk, United Kingdom",157,122,11
+"Cambridge, UK",157,14,98
+"Amarillo, TX",157,13,116
 "Wigan, England",157,25,110
-Ph,157,32,110
 "Franklin, TN",157,8,103
 Port Harcourt,157,27,115
 Dixie,157,15,115
-"Scranton, PA",157,13,122
-Kingdom of Heaven,157,52,150
-"Norfolk, United Kingdom",157,122,11
+"Sterling, VA",157,10,131
+dtx,157,14,120
+Tilted Towers,157,30,123
+"Temecula, CA",157,26,118
+Ph,157,32,110
+Oxfordshire,156,21,103
+"Corona, CA",156,23,108
 outer space,156,23,117
-"Amarillo, TX",156,13,116
 "Córdoba, Argentina",156,20,117
-"Sterling, VA",156,10,130
 "Portland, Maine",156,13,125
 "Worcester, England",156,32,105
-Oxfordshire,156,21,103
-dtx,156,14,120
-Tilted Towers,156,30,122
-"Temecula, CA",156,26,117
+"Donegal, Ireland",156,35,115
+"Fredericksburg, VA",156,21,111
+"Belo Horizonte, Brasil",156,38,138
 "The Woodlands, TX",155,22,114
 "कोलकाता, भारत",155,15,103
 North Korea,155,22,119
 "Mysore, India",155,10,112
-"Corona, CA",155,23,107
-Bloemfontein,155,8,129
-"Bad Wildbad, Deutschland",155,13,106
-Htx,155,17,130
 Rochester NY,155,52,103
+Bloemfontein,155,8,129
+Htx,155,17,130
 🌏,155,16,105
-"Donegal, Ireland",155,34,114
-"Belo Horizonte, Brasil",155,38,137
+"Hamburg, Deutschland",154,21,104
+"Guadalajara, Jalisco",154,11,116
 SA,154,13,122
 unknown,154,25,113
-"Hamburg, Deutschland",154,21,104
 "Srinagar, India",154,15,119
 satx,154,21,110
 So Cal,154,19,106
-"Fredericksburg, VA",154,21,109
-"Guadalajara, Jalisco",153,11,116
-"Allentown, PA",153,27,113
-"Wellington City, New Zealand",153,36,101
+"Davis, CA",154,19,118
 Jerusalem,153,11,112
-"Mpumalanga, South Africa",153,12,125
+"Barrie, Ontario",153,23,120
 Roma,153,16,112
 New York State,153,19,112
 Nationwide,153,25,110
-Western Australia,153,24,118
 "Zurich, Switzerland",153,10,99
+"Allentown, PA",153,27,113
+"Wellington City, New Zealand",153,36,101
+"Mpumalanga, South Africa",153,12,125
+Western Australia,153,24,118
 🇲🇽,153,19,107
-"Davis, CA",153,19,117
+"Cheltenham, England",153,29,96
 #BlackLivesMatter,153,22,133
+"Yorkshire, UK",152,20,106
+nairobi,152,20,111
+"Ypsilanti, MI",152,16,114
+"Milano, Lombardia",152,17,106
 "Spartanburg, SC",152,13,115
 Aberdeen,152,27,111
-"Barrie, Ontario",152,23,119
+The Upside Down,152,24,111
+"Laredo, TX",152,16,109
 British Columbia,152,20,102
 "Gold Coast, Queensland",152,12,122
 Honduras,152,28,104
-"Ypsilanti, MI",152,16,114
-"Yorkshire, UK",152,20,106
-"Milano, Lombardia",152,17,106
 Lincolnshire,152,25,98
-"Cheltenham, England",152,29,95
-nairobi,151,20,110
-The Upside Down,151,24,110
 Around The World,151,21,128
 "महाराष्ट्र, भारत",150,4,104
 Zion,150,16,108
-"Laredo, TX",150,16,107
-România,150,21,101
 Old Trafford,150,29,99
-Around,150,16,113
 "Kota, India",150,11,94
 JHB,150,7,109
+România,150,21,101
+Around,150,16,113
 Cyberspace,150,17,103
 Midrand,150,14,113
 Charlotte,150,7,117
 "Patiala, India",149,5,103
+Dreamland,149,21,108
+"Round Rock, TX",149,20,106
 "Jamshedpur, India",149,16,110
 "Las Cruces, NM",149,14,116
-Dreamland,149,21,108
 "Kissimmee, FL",149,13,109
 Dundee,149,31,105
 az,149,22,129
 "Richmond, CA",149,11,111
-"Round Rock, TX",148,20,105
-"Malacca, Malaysia",148,34,87
-Etats-Unis,148,19,121
+317,148,21,103
 "Waterloo, Ontario",148,24,94
 "Saskatchewan, Canada",148,19,103
 "Ahmedabad, Gujarat, India",148,13,107
+Etats-Unis,148,19,121
 "Fontana, CA",148,18,111
+"Malacca, Malaysia",148,34,87
 Mystic Falls,148,26,96
 "Bloomington, IN",148,13,109
 "Glasgow, UK",147,23,109
-"Essex, UK",147,12,104
 vegas,147,14,112
 Somalia,147,39,117
 Danmark,147,21,109
-317,147,21,102
+"Essex, UK",147,12,104
 "Port St Lucie, FL",147,19,102
 "Quetta, Pakistan",147,50,108
 "Dallas, Tx",147,33,106
 "Redondo Beach, CA",147,17,109
 "Columbia, MO",147,19,98
 Nirvana,147,20,114
-"Distrito Federal, México",146,16,112
-"Orange County, California",146,11,103
-"Topeka, KS",146,22,104
 "Indianapolis, Indiana",146,9,105
 Trinidad,146,10,112
+"Monroe, LA",146,12,104
+"Distrito Federal, México",146,16,112
+Vermont,146,21,100
+"Pembroke Pines, FL",146,19,108
+"Orange County, California",146,11,103
+"Topeka, KS",146,22,104
+new york city,146,16,117
 "East Region, Singapore",146,25,98
 Neptune,146,29,99
-"Monroe, LA",146,12,104
+"Naperville, IL",146,13,103
 "Kent, OH",146,18,108
-"Pembroke Pines, FL",145,19,107
+"Wakefield, England",145,23,103
+919,145,18,121
 Cairo,145,25,107
-Upstate New York,145,17,100
 "Manchester, NH",145,16,105
 Manchester UK,145,20,96
-new york city,145,16,117
-"Westlake Village, CA",145,78,96
-Vermont,145,21,99
 Gallifrey,145,14,106
+Upstate New York,145,17,100
+"Westlake Village, CA",145,78,96
 "Lake Charles, LA",145,20,101
 "Evanston, IL",145,17,102
 "Salem, MA",145,9,100
 Mumbai India,145,7,104
-"Wakefield, England",145,23,103
-"Naperville, IL",145,13,102
+704,145,16,117
+"Melbourne, FL",145,15,115
 +60,145,24,104
 York,145,18,86
 "Midland, TX",144,18,91
-Thohoyandou,144,23,96
 "Calgary, Alberta, Canada",144,21,102
-919,144,18,120
-"Honolulu, Hawaii",144,29,113
 IL,144,24,101
-CDMX,144,12,121
-Winnipeg,144,14,112
-Kuala Lumpur City,144,29,104
 "Miramar, FL",144,15,122
-704,144,16,116
-"Melbourne, FL",144,15,114
+Thohoyandou,144,23,96
+Kuala Lumpur City,144,29,104
+"Honolulu, Hawaii",144,29,113
+"Rome, Lazio",144,10,110
+CDMX,144,12,121
 "Wexford, Ireland",144,27,103
+Winnipeg,144,14,112
 Vietnam,144,15,93
 "Novi Sad, Republic of Serbia",143,14,119
-East Anglia,143,13,114
 "Kuantan, Pahang",143,24,88
-"Rome, Lazio",143,10,109
+East Anglia,143,13,114
 "Stamford, CT",143,24,93
 "Bellevue, WA",143,23,95
 "Muncie, IN",143,21,106
-Silicon Valley,142,18,98
-behind you,142,20,109
 "Kingston, Jamaica",142,12,116
-"Normal, IL",142,20,118
 global,142,17,123
+behind you,142,20,109
+Silicon Valley,142,18,98
+"Normal, IL",142,20,118
+"Boston, Massachusetts",142,30,101
+"Bay Area, California",142,16,99
+"Chhattisgarh, India",141,15,101
 Norge,141,22,94
-Genius Lab,141,10,96
+"Montevideo, Uruguay",141,27,110
 "DKI Jakarta, Indonesia",141,13,104
 "West Chester, PA",141,15,97
 Bradford,141,28,95
 Federal Capital Territory,141,24,110
-"Boston, Massachusetts",141,30,100
-"Chhattisgarh, India",141,15,101
-"Montevideo, Uruguay",141,27,110
-"Bay Area, California",141,16,99
+Genius Lab,141,10,96
 Balochistan,141,11,111
 City of Angels,141,18,114
 MUMBAI,141,5,109
+Myanmar,140,3,92
 "Pearland, TX",140,20,111
+East Yorkshire,140,16,93
+"Beirut, Lebanon",140,28,119
 STL,140,13,108
 Norfolk,140,25,99
-East Yorkshire,140,16,93
-Myanmar,140,3,92
-"Beirut, Lebanon",140,28,119
+WV,140,21,105
+"Lucknow, Uttar Pradesh",139,14,111
+"Santa Fe, NM",139,21,99
+"Newcastle, South Africa",139,17,111
 Earth.,139,14,114
+Hidden Leaf Village,139,21,112
 Zambia,139,14,90
 Newcastle upon Tyne,139,16,102
-"Lucknow, Uttar Pradesh",139,14,111
 Taiwan,139,13,110
 "Nantes, France",139,16,110
-WV,139,21,105
 Czech Republic,139,27,91
 "Beaverton, OR",139,12,103
-"Newcastle, South Africa",139,17,111
 Davao City,139,33,106
 black lives matter,139,15,112
 "Burlington, Ontario",139,20,102
 wales,139,16,107
 "Hamburg, Germany",139,17,98
-"Santa Fe, NM",138,20,98
+"Pomona, CA",139,23,100
 "Patna, Bihar",138,14,103
-Hidden Leaf Village,138,21,111
-"Warri, Nigeria",138,18,100
-"Kota Kinabalu, Sabah",138,28,81
-Vadodara,138,8,103
 "Calgary, AB",138,14,97
 Oakland,138,9,96
 Limbo,138,12,102
 Lithuania,138,21,103
+The Shire,138,16,104
+"Warri, Nigeria",138,18,100
+"Kota Kinabalu, Sabah",138,28,81
+Vadodara,138,8,103
+"Braga, Portugal",138,47,117
 مصر,138,11,94
 Österreich,138,23,98
 Seoul,138,17,96
-The Shire,138,16,104
 Portland Oregon,138,14,109
 Here and there,138,17,95
-"Pomona, CA",138,23,100
 Ciudad de México,137,14,90
-Pittsburgh PA,137,13,88
 Indian Occupied Kashmir,137,3,104
-"Oxford, UK",137,11,94
-united kingdom,137,17,93
 "Huntsville, TX",137,16,102
 "Prague, Czech Republic",137,19,97
-"Braga, Portugal",137,47,116
+"Wrexham, Wales",137,42,91
+Pittsburgh PA,137,13,88
+"Oxford, UK",137,11,94
+united kingdom,137,17,93
 "لاہور, پاکستان",137,25,93
 "Whittier, CA",137,16,98
 भारत माता की जय,137,12,101
 Srinagar,137,5,117
 "Tembisa, South Africa",137,8,103
 "Kennesaw, GA",136,23,99
-Top Secret Location in West Africa,136,18,101
-"Springfield, MA",136,14,110
 "Swindon, England",136,26,103
+Top Secret Location in West Africa,136,18,101
+anywhere but here,136,18,98
+"Springfield, MA",136,14,110
 DFW,136,17,108
-"Wrexham, Wales",136,42,91
 Milton Keynes,136,15,95
+Disneyland,136,19,110
 El Salvador,136,18,101
-"Bucharest, Romania",135,12,79
-anywhere but here,135,18,97
-Kosovo,135,16,100
 Adelaide,135,13,94
+"Bucharest, Romania",135,12,79
+Kosovo,135,16,100
 "Iloilo City, Western Visayas",135,30,103
 NEW YORK,135,19,88
-Disneyland,135,19,109
 "Rajkot, India",135,4,101
 Manhattan,135,7,114
-"Parkland, FL",134,26,81
-"Valdosta, GA",134,14,100
 "Athens, OH",134,14,99
 "Warner Robins, GA",134,13,94
 "दिल्ली, भारत",134,9,100
+"Philadelphia, PA USA",134,13,120
+"Parkland, FL",134,26,81
+"Valdosta, GA",134,14,100
+"Yorkshire, England",134,17,90
 "Simi Valley, CA",134,19,99
 EUROPA,134,3,120
 "Perth, Australia",134,12,92
 South Texas,134,16,98
 he/they,134,12,102
 "Halifax, England",134,30,85
+"Nottingham, UK",133,18,91
 Bikini Bottom,133,17,99
-"Porto Alegre, Brasil",133,20,101
 "Kuala Lumpur, Wilayah Persekut",133,20,88
 İstanbul,133,21,117
 Plymouth,133,17,91
+"Porto Alegre, Brasil",133,20,101
 "Starkville, MS",133,10,95
 London England,133,28,89
-"Philadelphia, PA USA",133,13,119
 "Croton-on-Hudson, NY",133,6,113
 "Nice, France",133,12,105
-"Nottingham, UK",133,18,91
+"Mission, TX",133,20,96
 "Jeddah, Kingdom of Saudi Arabia",133,16,109
-KY,132,10,92
 universe,132,21,102
-"Yorkshire, England",132,16,88
-Moscow,132,20,101
-Wiltshire,132,20,88
-Shropshire,132,6,89
-"Stirling, Scotland",132,31,87
+Sunderland,132,18,93
 Albania,132,16,98
-"Mission, TX",132,20,95
+Moscow,132,20,101
+"Joliet, IL",132,17,96
+"Stirling, Scotland",132,31,87
 "Lancaster, CA",132,17,102
+Wiltshire,132,20,88
+KY,132,10,92
+Shropshire,132,6,89
 Bermuda,132,15,81
-https://www.youtube.com/watch?,131,79,85
+Uranus,131,17,98
 "New Braunfels, TX",131,8,98
 OH,131,11,101
-Sunderland,131,17,93
 "Eldoret, Kenya",131,13,84
 "Cornwall, UK",131,4,90
 "Vancouver, BC, Canada",131,15,89
-"اسلام آباد, پاکستان",131,18,103
-"Joliet, IL",131,17,95
+https://www.youtube.com/watch?,131,79,85
 California (Unfortunately),131,1,129
-Uranus,131,17,98
 "Delray Beach, FL",131,8,96
+"اسلام آباد, پاکستان",131,18,103
 "Udupi, India",131,14,96
 Tehran,131,14,98
+🌈,131,26,104
 "Lekki, Nigeria",131,17,101
-India.,130,6,93
-National,130,87,71
-"Moreno Valley, CA",130,14,93
-EVERYWHERE,130,16,86
-"Burlington, VT",130,15,84
 "Surrey, British Columbia",130,12,88
-"Kent, England",130,25,89
-"Marseille, France",130,21,99
-Merseyside,130,23,95
+India.,130,6,93
 "Carlsbad, CA",130,18,92
+"Kent, England",130,25,89
+EVERYWHERE,130,16,86
+"Marseille, France",130,21,99
+"Burlington, VT",130,15,84
 "Fairbanks, AK",130,14,96
 "Princeton, NJ",130,8,97
 "Meerut, India",130,6,97
+National,130,87,71
+Merseyside,130,23,95
+Salt Lake City,130,22,94
+Nunya,130,13,101
+"Moreno Valley, CA",130,14,93
 Portland,130,5,93
-"Ankara, Türkiye",129,16,99
-🌈,129,26,103
+"Madison, Wisconsin",129,20,89
 Classified,129,15,92
-Omaha,129,14,92
+"Waterford, Ireland",129,22,92
+CLE,129,15,98
 "Perth, Scotland",129,40,89
 "Bombay, India",129,8,93
-CANADA,129,10,94
-"Makati City, National Capital",129,32,103
 Central City,129,22,90
 "Vallejo, CA",129,18,110
-Malawi,129,9,92
 "Ocala, FL",129,22,90
-Nunya,129,13,100
-"Madison, Wisconsin",129,20,89
-Salt Lake City,129,22,93
-Atl,128,19,97
-paradise,128,15,95
-"Waterford, Ireland",128,21,91
-CLE,128,15,97
+Suffolk,129,22,80
+CANADA,129,10,94
+"Makati City, National Capital",129,32,103
+"Valencia, España",129,27,94
+"Ankara, Türkiye",129,16,99
+Omaha,129,14,92
+"Mount Pleasant, MI",129,17,102
+Malawi,129,9,92
+"Yakima, WA",128,21,94
 Pandora,128,22,97
-"Mount Pleasant, MI",128,17,102
+paradise,128,15,95
+new,128,7,103
 sheffield,128,23,90
 Bhopal,128,10,102
+"Cedar Rapids, IA",128,22,91
 "Pondicherry, India",128,9,97
-"Yakima, WA",128,21,94
-"Valencia, España",128,27,93
-"Ayr, Scotland",127,42,94
-"Birmingham, Alabama",127,12,90
-Cape town,127,13,94
-new,127,6,102
+"Visalia, CA",128,10,98
+Atl,128,19,97
+Hamburg,127,9,99
+"Somerville, MA",127,12,83
 Buenos Aires,127,10,98
 Palestine,127,10,103
 Uruguay,127,14,100
-Hamburg,127,9,99
-"Visalia, CA",127,10,97
-Pale Blue Dot,127,5,99
+Cape town,127,13,94
 Nagpur,127,9,96
 Durham,127,18,91
 "iPhone: 0.000000,0.000000",127,6,86
-Suffolk,127,22,78
+no,127,12,96
 sydney,127,12,85
-"Cedar Rapids, IA",127,22,90
+"Ayr, Scotland",127,42,94
+Pale Blue Dot,127,5,99
+"Redmond, WA",127,9,89
+"Birmingham, Alabama",127,12,90
 South africa,127,9,97
-france,126,12,91
-Shah Alam,126,27,82
-"Sarawak, Malaysia",126,25,90
-"Somerville, MA",126,12,82
-Norn Iron,126,3,93
-"Dunfermline, Scotland",126,38,86
 "Bandung, Indonesia",126,24,87
-"Essex, England",126,20,90
-"Jharkhand, India",126,11,104
+"Mansfield, TX",126,15,97
+"Sarawak, Malaysia",126,25,90
+Norn Iron,126,3,93
 La La Land,126,25,97
-"Redmond, WA",126,9,89
-"Trivandrum, India",126,7,92
-Alberta,126,26,90
 Midwest USA,126,9,97
-no,126,12,96
 "Ithaca, NY",126,13,95
-"Roodepoort, South Africa",126,5,96
 "Kilmarnock, Scotland",126,42,85
 "Gorakhpur, India",126,10,91
+"Miami, Fl",126,23,97
+"Essex, England",126,20,90
+france,126,12,91
+"Roodepoort, South Africa",126,5,96
+"Dunfermline, Scotland",126,38,86
+"Trivandrum, India",126,7,92
+Alberta,126,26,90
+"Jharkhand, India",126,11,104
+Shah Alam,126,27,82
+Central Florida,126,10,90
 Bountiful Utah,126,21,119
-"Surrey, UK",125,8,82
-Central Florida,125,10,90
-"Mansfield, TX",125,15,96
+"Nelspruit, South Africa",125,18,101
+"Champaign, IL",125,14,106
 "Hồ Chí Minh, Việt Nam",125,4,84
 argentina,125,12,98
 "Abuja, Nigeria.",125,13,86
 "Lynchburg, VA",125,17,77
-"Champaign, IL",125,14,106
 West Michigan,125,16,90
-"Nelspruit, South Africa",125,18,101
-"Tzaneen, South Africa",125,13,91
-"Miami, Fl",125,23,96
+"Missouri City, TX",125,13,96
 Portsmouth,125,18,87
 Luxembourg,125,12,83
 "Chula Vista, CA",125,15,94
+"Tzaneen, South Africa",125,13,91
+"Surrey, UK",125,8,82
 Coruscant,125,7,90
-"Gauteng, South Africa",124,20,90
-"Marrakesh, Dark Continent",124,1,100
-"Ahmedabad, India",124,11,93
 "Ilorin, Nigeria",124,17,98
-"Missouri City, TX",124,13,95
-NorCal,124,18,87
+"Marrakesh, Dark Continent",124,1,100
+"Bogotá, Colombia",124,15,92
 Algeria,124,5,85
 Haiti,124,23,89
+"Gauteng, South Africa",124,20,90
+"Ahmedabad, India",124,11,93
+NorCal,124,18,87
 "UK, EU, & elsewhere Not 9 - 5",123,13,79
 "Duluth, MN",123,23,81
-"Bogotá, Colombia",123,15,92
 broward,123,23,96
-Odisha,123,11,90
-"Nakuru, Kenya",123,20,93
 "Ames, IA",123,17,98
 "Ottawa, Ontario, Canada",123,26,88
-USA 🇺🇸,122,2,87
-"राजस्थान, भारत",122,14,83
+Odisha,123,11,90
+"Nakuru, Kenya",123,20,93
+Themyscira,123,17,94
 Britain,122,11,90
+USA 🇺🇸,122,2,87
 "Olathe, KS",122,16,91
 Colorado Springs,122,11,86
 "Nashville, Tennessee",122,16,87
+中华人民共和国,122,2,80
+"राजस्थान, भारत",122,14,83
 "Longview, TX",122,9,97
 Ranchi,122,16,84
-Themyscira,122,17,94
-las vegas,121,11,82
-"İzmir, Türkiye",121,18,95
+"Rock Hill, SC",122,14,89
+bristol,121,31,90
 Beirut,121,14,77
-"Hayward, CA",121,18,84
-Bournemouth,121,35,76
+baltimore,121,11,94
 Saudi Arabia,121,14,88
 AMERICA,121,6,87
-bristol,121,31,90
-中华人民共和国,121,2,79
 bts,121,9,86
 "San Angelo, TX",121,11,95
-JAPAN,120,8,95
-"Boksburg, South Africa",120,11,94
+Bournemouth,121,35,76
+las vegas,121,11,82
+"İzmir, Türkiye",121,18,95
+"Boksburg, South Africa",121,11,95
+"Caerphilly, Wales",121,13,81
+"Hayward, CA",121,18,84
 "Adelaide, Australia",120,15,83
-Prague,120,13,90
-baltimore,120,11,93
+JAPAN,120,8,95
+Tidworth,120,52,51
+Louisville,120,14,90
 united states,120,16,89
 ישראל,120,18,82
 "Wichita Falls, TX",120,14,71
 Salisbury,120,4,77
-"Jabalpur, India",120,11,67
 Perú,120,16,85
-Tidworth,120,52,51
-"Caerphilly, Wales",120,13,80
-614,119,8,77
-KL,119,25,84
+Prague,120,13,90
+"Jabalpur, India",120,11,67
+Cork,119,24,87
+✈️,119,22,86
 DM(V),119,12,97
 God's Country,119,6,88
-Louisville,119,14,89
+614,119,8,77
+"उत्तर प्रदेश, भारत",119,6,78
 PDX,119,12,81
-"Rock Hill, SC",119,14,89
-✈️,119,22,86
+KL,119,25,84
 "Surprise, AZ",119,4,92
 "Ahmadabad City, Gujarat",119,9,83
-"उत्तर प्रदेश, भारत",119,6,78
 Newcastle Upon Tyne,119,25,82
 pluto,119,26,85
+Hampshire,118,17,77
+"Winter Park, FL",118,20,90
 "Mesquite, TX",118,19,81
 utopia,118,9,81
 "Quezon City, National Capital Region",118,26,101
 "Anaheim, California",118,7,92
-Cork,118,24,86
-"Toms River, NJ",118,9,89
 NCR,118,17,86
-"Winter Park, FL",118,20,90
-"Greenville, NC",118,14,92
 "Leeds, UK",118,10,75
-The Earth,118,11,83
 "Richard's Bay, South Africa",118,8,92
-Hampshire,118,17,77
+"Toms River, NJ",118,9,89
+The Earth,118,11,83
+"Greenville, NC",118,14,92
 Blackpool,118,27,73
 Bath,118,9,78
 "अंबाला, भारत",117,14,84
@@ -1843,159 +1843,159 @@ Bath,118,9,78
 venezuela,117,32,94
 "Binghamton, NY",117,15,81
 Universal,117,14,79
-Perth,117,17,79
 "Palm Beach, FL",117,17,77
 "Fremont, CA",117,19,88
+"Yuma, AZ",117,15,90
 EXO Planet,117,9,82
+Perth,117,17,79
+europe,117,13,93
 Magyarország,117,14,81
-Milano,116,11,88
-europe,116,13,93
 Gloucestershire,116,17,80
 Republic of Serbia,116,13,86
 "Western Australia, Australia",116,21,82
-"Canberra, Australia",116,12,76
 "München, Bayern",116,15,80
 "San Mateo, CA",116,8,101
-seattle,116,15,87
-"Yuma, AZ",116,15,89
 🇬🇭,116,18,91
 North Texas,116,11,86
 "Guayaquil, Ecuador",116,21,82
+"Canberra, Australia",116,12,76
+seattle,116,15,87
+Milano,116,11,88
 Somewhere Over The Rainbow,116,24,95
+Lasgidi,115,21,85
 Rwanda,115,21,88
-Galway,115,15,80
+"Bozeman, MT",115,21,82
 "Dubai, UAE",115,14,84
 Bed,115,18,85
 Australia,115,8,87
 Location,115,20,81
 210,115,22,83
+Galway,115,15,80
 "Comunidad de Madrid, España",115,23,81
 Cebu City,115,26,100
 johannesburg,115,18,88
-sleeping,114,21,81
-Česká republika,114,13,92
-Morocco,114,15,77
-Dehradun,114,6,79
-"Bozeman, MT",114,21,81
+Morocco,115,15,78
 202,114,14,83
-تهران,114,1,86
-Lasgidi,114,21,85
+Dehradun,114,6,79
 China,114,11,79
 "Murrieta, CA",114,18,86
+تهران,114,1,86
+sleeping,114,21,81
+Česká republika,114,13,92
 "Abuja,Nigeria",114,21,87
-"Camden Town, London",113,6,74
-"Huntington, WV",113,6,85
-"Cardiff, Wales, UK",113,13,78
-'Merica,113,15,82
-"Guelph, Ontario",113,19,78
-anywhere,113,15,82
-"National Capital Region, Republic of the Philippines",113,35,87
-Huddersfield,113,33,75
+"Saratoga Springs, NY",113,30,76
 "San Francisco, California",113,12,86
 Not Russia,113,15,80
-Cambodia,113,16,71
+Kurdistan,113,13,67
+"Camden Town, London",113,6,74
+"Huntington, WV",113,6,85
 melbourne,113,16,88
+"Cardiff, Wales, UK",113,13,78
+anywhere,113,15,82
+Huddersfield,113,33,75
+'Merica,113,15,82
+"Guelph, Ontario",113,19,78
 "Johnson City, TN",113,14,79
+"National Capital Region, Republic of the Philippines",113,35,87
+Cambodia,113,16,71
 "Baytown, TX",113,13,77
 "Bruxelles, Belgique",113,13,90
-"Saratoga Springs, NY",113,30,76
-Kurdistan,113,13,67
 Ontario Canada,113,10,86
 south,113,27,85
-"Bromley, London",112,15,82
-"Houston,TX",112,20,87
+"Surat, Gujarat",112,8,76
+"Hyderabad, Andhra Pradesh",112,8,83
+"Stellenbosch, South Africa",112,8,87
 Harare,112,14,82
 "Coimbra, Portugal",112,35,91
+"Bromley, London",112,15,82
+"Houston,TX",112,20,87
 Worcester,112,11,80
-"Hyderabad, Andhra Pradesh",112,8,83
 Kazakhstan,112,20,80
 "Weslaco, TX",112,21,86
-"Surat, Gujarat",112,8,76
 "Johannesburg,South Africa",112,12,84
-"Stellenbosch, South Africa",112,8,87
-"Bedford, England",111,16,77
-🌙,111,10,92
-"Cheshire, UK",111,17,68
-"Greenwich, London",111,11,83
 Northampton,111,12,79
 "York, PA",111,17,83
-"West Covina, CA",111,13,82
-Bay area,111,13,86
-252,111,8,76
-karachi,111,19,84
-auldcove scotland,111,17,92
-"Rio Grande do Sul, Brasil",111,15,88
 "मध्य प्रदेश, भारत",111,7,73
+karachi,111,19,84
+"West Covina, CA",111,13,82
+auldcove scotland,111,17,92
+"Greenwich, London",111,11,83
 "Akure, Nigeria",111,22,81
+"Bedford, England",111,16,77
+252,111,8,76
+The world,111,13,80
+🌙,111,10,92
+"Cheshire, UK",111,17,68
+Bay area,111,13,86
+"Rio Grande do Sul, Brasil",111,15,88
 "Hà Nội, Việt Nam",111,6,76
-"Manila City, National Capital Region",110,29,86
-भारत India,110,4,79
-The world,110,13,79
-Tunisie,110,7,76
-New delhi,110,11,87
-brooklyn,110,17,77
-"St. Louis, Missouri",110,10,90
 Silent Hill,110,12,76
-Punjab,110,6,76
-Nigeria,110,16,81
+"St. Louis, Missouri",110,10,90
+"East Kilbride, Scotland",110,25,70
+"Manila City, National Capital Region",110,29,86
 "Vero Beach, FL",110,11,73
+भारत India,110,4,79
 Brooklyn NY,110,6,87
+New delhi,110,11,87
+"Tulsa, Oklahoma",110,11,78
+brooklyn,110,17,77
+"Medford, OR",110,16,75
 DELHI,110,14,85
 WI,110,13,76
-"Tulsa, Oklahoma",110,11,78
-"East Kilbride, Scotland",110,25,70
+"Sheffield, UK",110,19,71
+Tunisie,110,7,76
+Punjab,110,6,76
+Nigeria,110,16,81
 Republic of Slovenia,110,5,75
-the Netherlands,109,15,67
-"Kuala Lumpur City, Kuala Lumpur Federal Territory",109,23,83
-"Paisley, Scotland",109,30,72
-"Málaga, España",109,15,89
-Right here. Meow to you too!,109,15,90
-Usa,109,15,77
-"Medford, OR",109,16,75
-"Charleston, WV",109,12,73
-"Trenton, NJ",109,13,79
+"Solihull, England",109,20,67
 "Wicklow, Ireland",109,26,87
 The Great State of Texas,109,11,73
+Right here. Meow to you too!,109,15,90
+Usa,109,15,77
+"Kuala Lumpur City, Kuala Lumpur Federal Territory",109,23,83
+the Netherlands,109,15,67
+"Paisley, Scotland",109,30,72
+"Charleston, WV",109,12,73
+"Málaga, España",109,15,89
+"Trenton, NJ",109,13,79
+Mt. Kailash,108,1,50
+"West Lafayette, IN",108,16,76
 🇫🇷,108,14,84
 North East England,108,15,72
-"Sheffield, UK",108,18,70
-"West Lafayette, IN",108,16,76
-"Minneapolis, Minnesota",108,13,84
-❤️,108,18,86
-The Big Apple,108,20,79
-"Solihull, England",108,20,67
-She/her,108,18,74
 Queensland,108,18,74
 sweden,108,30,79
-"Stillwater, OK",108,8,84
 "Kempton Park, South Africa",108,7,85
-Mt. Kailash,108,1,50
+"Minneapolis, Minnesota",108,13,84
+"New England, USA",108,7,86
+She/her,108,18,74
+"Stillwater, OK",108,8,84
+❤️,108,18,86
+The Big Apple,108,20,79
 Halifax,108,22,78
+"Galveston, TX",108,11,81
 "Jerusalem, Israel",108,25,80
-Baindur,107,5,75
--,107,13,77
-newcastle,107,11,86
-Birmingham UK,107,9,75
 हिंदुस्तान,107,7,79
-"New England, USA",107,7,85
+"Hastings, England",107,18,80
+Baindur,107,5,75
+Northumberland,107,8,71
+Birmingham UK,107,9,75
+"Port Arthur, TX",107,13,82
 "Petaling Jaya, Selangor",107,32,67
-"Galveston, TX",107,11,81
+"Christchurch City, New Zealand",107,25,77
+newcastle,107,11,86
+-,107,13,77
 "Boone, NC",107,10,77
+"Cologne, Germany",106,24,76
+"Devon, UK",106,19,72
+"Paradise, NV",106,8,80
 h,106,5,94
 "Kimberley, South Africa",106,7,89
-Dorset,106,13,69
-Buckinghamshire,106,14,69
-Northumberland,106,8,71
-OT7,106,2,65
-"Cologne, Germany",106,24,76
-"Paradise, NV",106,8,80
 East coast USA,106,3,84
-n.a,106,13,86
 PH 🇵🇭,106,9,72
 "Fife, Scotland",106,19,82
+Buckinghamshire,106,14,69
+"Batangas City, Calabarzon",106,15,83
+Dorset,106,13,69
+n.a,106,13,86
+OT7,106,2,65
 716,106,19,82
-"Devon, UK",106,19,72
-"Christchurch City, New Zealand",106,24,76
-"Hastings, England",106,18,79
-"Regina, Saskatchewan",106,16,86
-"Port Arthur, TX",105,13,80
