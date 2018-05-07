@@ -9,7 +9,7 @@ import dash_table_experiments as dt
 import plotly
 import dash_auth
 
-df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)[:50]
+df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)
 #df2 = pd.read_csv('Dataframes/Languages.csv')[:50]
 df3 = pd.read_csv('Dataframes/People.csv')[:100000]
 df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
@@ -19,7 +19,7 @@ df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
 
 Users_Passwords = [
-    ['Admin', '11297']
+    ['Admin', '7797']
 ]
 app = dash.Dash('auth')
 server = app.server
@@ -53,6 +53,19 @@ app.layout = make_layout
 
 
 index_page = html.Div([
+    dcc.Markdown('''
+Twitter Malicious Behavior Visualizer
+===================================== 
+
+**Made for educational purposes.**           
+This web page is made to spread awareness about depression and suicidal behavior, and how one would need to act if they 
+know people who behave in a similar manner.   
+
+**Viewer discretion advised.** 
+
+This page is made using [Dash](https://plot.ly/products/dash/).
+Use the dropdown above to select location of interest to display the number of entries from that location. 
+    '''),
     dcc.Dropdown(
         id='xaxis-column',
         options=[{'label': i, 'value': i} for i in df['country_location']],
