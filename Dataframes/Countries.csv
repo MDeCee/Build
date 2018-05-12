@@ -1,174 +1,174 @@
 country_location,Tweets,TweetsSuicide,TweetsLowSentiment
-United States,853,78,640
-India,378,32,267
-"London, England",365,48,238
+United States,861,78,645
+India,381,32,270
+"London, England",370,48,242
 London,301,54,195
-United Kingdom,285,38,195
-"California, USA",259,25,197
-USA,248,17,192
-"England, United Kingdom",217,18,150
-"Texas, USA",204,11,139
-"Florida, USA",201,16,137
-Nigeria,200,14,149
-South Africa,191,24,150
+United Kingdom,287,39,196
+"California, USA",262,26,200
+USA,253,17,195
+"England, United Kingdom",220,19,153
+"Texas, USA",206,12,141
+"Florida, USA",204,16,140
+Nigeria,201,14,150
+South Africa,196,25,155
 "Lagos, Nigeria",179,20,128
-UK,177,31,123
+UK,178,31,124
+"Los Angeles, CA",162,11,120
 "Chicago, IL",162,9,108
-"Los Angeles, CA",157,11,116
-"Washington, DC",151,8,112
-Australia,151,24,118
-"Houston, TX",142,8,84
+"Washington, DC",152,8,113
+Australia,152,25,119
+"Houston, TX",145,8,86
 Canada,141,17,114
-"New York, USA",139,10,105
-"New Delhi, India",122,13,85
+"New York, USA",140,10,106
+"New Delhi, India",124,13,86
+"Johannesburg, South Africa",123,21,100
+"New York, NY",123,6,95
 "Atlanta, GA",122,5,78
-"New York, NY",120,6,92
-"Johannesburg, South Africa",119,20,96
-Malaysia,119,4,94
-Republic of the Philippines,115,14,87
-Philippines,114,15,90
-Earth,111,7,81
+Malaysia,121,4,96
+Republic of the Philippines,117,14,89
+Philippines,115,15,91
+Earth,113,7,83
 Ireland,108,12,74
 "New Jersey, USA",99,6,65
+"Toronto, Ontario",92,13,74
+"Michigan, USA",91,17,66
 "Nairobi, Kenya",91,8,76
-"Michigan, USA",90,17,65
-"Toronto, Ontario",90,13,72
 Worldwide,89,8,74
+"Pennsylvania, USA",88,2,56
 "North Carolina, USA",88,1,52
-"Mumbai, India",86,8,66
-"Pennsylvania, USA",85,1,54
-New York,85,3,63
-"Philadelphia, PA",81,10,50
-Indonesia,77,5,63
-"Abuja, Nigeria",76,8,53
+"Mumbai, India",87,8,66
+New York,87,3,64
+"Philadelphia, PA",82,10,51
+Indonesia,79,5,65
+"Abuja, Nigeria",77,8,53
+"Ohio, USA",77,2,54
+"Dallas, TX",76,3,54
 Pakistan,76,7,48
-"Ohio, USA",74,2,51
+"Georgia, USA",75,2,57
 England,74,9,57
-"Georgia, USA",74,2,56
 Texas,73,5,51
-"Dallas, TX",73,3,52
 Singapore,72,3,57
 "Boston, MA",69,5,56
-"Brooklyn, NY",67,3,48
+"Brooklyn, NY",69,3,49
 "Massachusetts, USA",67,5,50
-"Austin, TX",66,2,44
+"Austin, TX",67,2,45
+"Scotland, United Kingdom",65,27,33
 France,63,3,45
-"Scotland, United Kingdom",63,26,32
+"Seoul, Republic of Korea",63,2,47
 "Miami, FL",63,4,46
+Chicago,62,7,42
+"San Diego, CA",62,4,41
+"Virginia, USA",62,5,45
 Scotland,62,17,35
-"Seoul, Republic of Korea",61,2,45
-Chicago,61,7,42
-"San Diego, CA",61,4,40
 "San Antonio, TX",61,7,35
 "Bengaluru, India",60,7,43
 "Manchester, England",60,13,39
-"Virginia, USA",60,5,44
 Mumbai,59,11,32
+NYC,58,1,47
 "Ontario, Canada",57,11,37
-NYC,57,1,46
+"Seattle, WA",55,9,38
 "Glasgow, Scotland",55,29,26
 Florida,55,4,38
-"Illinois, USA",53,2,34
-"Seattle, WA",53,9,36
+"Illinois, USA",54,2,34
 "San Francisco, CA",53,4,47
 "Maryland, USA",53,4,28
+California,53,4,40
+🇵🇭,52,5,43
 "Baltimore, MD",52,3,39
-California,52,4,39
 "Las Vegas, NV",51,5,36
-🇵🇭,50,5,41
-Global,49,6,40
+Global,50,6,41
 "London, UK",49,7,30
+"Arizona, USA",48,4,33
 Lagos,47,4,35
-"Arizona, USA",47,4,32
 Hell,45,3,36
 Planet Earth,45,4,35
+"Karachi, Pakistan",44,1,36
 "Lahore, Pakistan",44,4,29
+"Paris, France",44,2,27
 Germany,43,2,28
 Italy,43,1,38
 Toronto,43,10,33
 "Cape Town, South Africa",43,3,31
 "South Carolina, USA",42,5,30
-"Karachi, Pakistan",42,1,35
-"Paris, France",42,2,26
 "Melbourne, Victoria",42,10,35
 "Charlotte, NC",41,7,28
 "Tampa, FL",41,2,35
 Everywhere,40,4,32
 "Melbourne, Australia",40,10,27
+"Durban, South Africa",40,1,30
+"Phoenix, AZ",40,3,30
 Glasgow,39,11,21
 "Pretoria, South Africa",39,4,32
-"Phoenix, AZ",39,3,29
+"Alabama, USA",39,3,29
 "Edinburgh, Scotland",38,15,19
 San Francisco,38,1,18
-"Durban, South Africa",38,1,29
-"Alabama, USA",38,3,28
+New York City,38,6,27
+"Orlando, FL",38,1,25
 "Wales, United Kingdom",37,5,26
 "South East, England",37,6,27
+"Pittsburgh, PA",37,2,26
 Delhi,37,1,24
-New York City,37,5,26
 New Delhi,37,4,22
-"Orlando, FL",37,1,24
 "Tennessee, USA",37,2,29
-"Pittsburgh, PA",36,2,26
+Hogwarts,36,3,23
 ,36,4,24
 "Colorado, USA",36,2,26
 "South West, England",35,8,25
-Hogwarts,35,3,22
 she/her,35,5,26
 "Fort Worth, TX",35,3,23
+"Sydney, New South Wales",35,9,28
 "Bristol, England",35,12,25
 Bangalore,34,4,26
 Los Angeles,34,1,27
 "Wisconsin, USA",34,4,25
 "Accra, Ghana",34,3,23
 United States of America,34,1,27
-"Sydney, New South Wales",34,9,28
+"Portland, OR",34,3,28
 Europe,33,3,23
+"Leeds, England",33,8,19
 Dublin,33,5,22
 "Dublin City, Ireland",33,4,20
 "Birmingham, England",33,6,21
-"Portland, OR",33,3,27
 "Missouri, USA",32,1,24
-"Leeds, England",32,8,18
 Wakanda,32,4,20
 "Minneapolis, MN",32,5,24
 PH,32,2,24
 "Washington, USA",31,4,24
 North Carolina,31,3,22
 New Jersey,31,3,24
+"Indianapolis, IN",31,2,25
 Liverpool,31,6,22
 "Islamabad, Pakistan",31,1,20
 "Kentucky, USA",30,2,21
 "Columbus, OH",30,1,22
 "Oregon, USA",30,5,26
-"Indianapolis, IN",30,2,24
 "Minnesota, USA",30,1,26
 Edinburgh,29,7,13
+Somewhere,29,1,17
 Michigan,29,4,20
+"Dublin, Ireland",29,5,21
+Here,29,3,20
 "New Orleans, LA",29,1,23
 Ohio,28,3,21
 "Cincinnati, OH",28,2,24
 Neverland,28,1,23
-"Dublin, Ireland",28,4,20
-Here,28,3,19
+Paradise,27,5,20
 Italia,27,3,16
 hell,27,4,20
 "Louisiana, USA",27,1,23
 "Bronx, NY",27,3,20
-Somewhere,27,1,16
 "Queens, NY",26,1,17
-Paradise,26,5,20
+"Manila, Philippines",26,6,23
 india,26,2,18
-"Manila, Philippines",25,6,22
-"Nashville, TN",25,1,17
+"Nashville, TN",26,1,18
+NY,26,4,15
+"Connecticut, USA",25,3,17
+"Montréal, Québec",25,1,17
 "Sydney, Australia",25,6,14
-NY,25,4,15
-"Connecticut, USA",24,3,16
 "Oklahoma, USA",24,3,16
 Manchester,24,5,13
 Finland,24,6,21
 "North West, England",24,6,13
-"Montréal, Québec",24,1,17
 भारत,24,1,15
 london,24,4,14
 "Kolkata, India",24,3,18
@@ -177,52 +177,54 @@ Islamic Republic of Iran,23,16,5
 Sweden,23,2,13
 Wales,23,2,17
 "Calgary, Alberta",23,9,21
+DMV,23,2,16
 "Indiana, USA",23,2,12
 "Memphis, TN",23,3,16
+Johannesburg,23,3,18
 New Zealand,23,6,19
+Portugal,23,5,21
 Colorado,23,2,17
+"West Midlands, England",22,1,17
 The Netherlands,22,1,20
 "Kampala, Uganda",22,2,20
-DMV,22,2,16
-Johannesburg,22,3,17
+Virginia,22,1,18
 "Buffalo, NY",22,3,18
 Deutschland,22,1,15
 "Liverpool, England",22,4,15
-Portugal,22,5,20
-"West Midlands, England",21,1,16
-Virginia,21,1,17
+"Perth, Western Australia",21,2,17
+Spain,21,2,16
 INDIA,21,1,14
+Japan,21,5,16
+Essex,21,2,14
 New England,21,1,15
-"Perth, Western Australia",20,2,16
+"Utah, USA",20,5,15
 earth,20,1,19
+"नई दिल्ली, भारत",20,1,13
 Bharat,20,4,15
 "Raleigh, NC",20,1,13
 "Cairo, Egypt",20,1,19
-Japan,20,5,15
-Essex,20,2,13
 "Cambridge, England",20,4,13
 "Cleveland, OH",19,2,12
-"Utah, USA",19,5,14
 "Pune, India",19,3,12
-Spain,19,2,14
 Lagos Nigeria,19,1,15
-"नई दिल्ली, भारत",19,1,12
 "Cork, Ireland",19,4,12
 Maryland,19,1,13
+United Arab Emirates,19,1,15
 America,19,1,13
 "Tucson, AZ",18,2,14
 Abuja,18,3,13
 "Newcastle Upon Tyne, England",18,5,16
 Africa,18,2,16
-United Arab Emirates,18,1,14
+"Norfolk, United Kingdom",18,18,18
 "Sheffield, England",18,6,12
+"Alberta, Canada",18,2,12
 usa,18,3,17
+NJ,17,2,12
 Illinois,17,1,13
-"Norfolk, United Kingdom",17,17,17
 Mexico,17,2,15
+Pune,17,3,11
 "North East, England",17,3,10
 "Washington, D.C.",17,2,14
-"Alberta, Canada",17,2,11
 World,16,1,13
 Republic of Korea,16,2,14
 "Louisville, KY",16,3,11
@@ -230,10 +232,10 @@ Cape Town,16,2,12
 "Chennai, India",16,1,8
 "Cardiff, Wales",16,3,9
 Atlanta,16,1,14
-Pune,16,3,10
 Washington State,16,1,14
 Washington DC,16,1,15
-NJ,15,2,10
+he/him,16,2,12
+"Leicester, England",15,3,9
 "Kansas City, MO",15,1,12
 "Kaduna, Nigeria",15,2,14
 Pretoria,15,1,13
@@ -247,8 +249,6 @@ they/them,15,4,14
 Brazil,15,2,12
 Indiana,15,2,12
 South Carolina,15,1,11
-he/him,15,2,12
-"Leicester, England",14,3,8
 Ottawa,14,6,9
 Maldives,14,1,11
 "Toronto, Canada",14,1,9
@@ -259,8 +259,10 @@ Puerto Rico,14,6,8
 "Gurgaon, India",14,2,11
 Sheffield,14,2,11
 MNL,14,5,11
+Lahore,14,2,9
 "Manchester, UK",14,4,8
 "Alexandria, Egypt",14,2,12
+Melbourne,14,1,9
 "Bloemfontein, South Africa",14,2,13
 Nairobi,14,1,8
 Hyderabad,14,1,8
@@ -271,16 +273,19 @@ All Cats Have Asperger's Meow,13,7,9
 "Kano, Nigeria",13,2,8
 Philadelphia,13,1,12
 "Charleston, SC",13,1,10
+San Diego,13,2,11
 Mars,13,1,7
 Connecticut,13,3,11
+"Delhi, India",13,2,9
 Nederland,13,1,13
 LDN,13,2,7
 HTX,13,2,11
 North America,13,3,10
 "Queensland, Australia",13,2,9
-Lahore,13,2,9
+"Fayetteville, NC",13,2,8
 "Iowa, USA",13,2,8
 Bristol,13,3,7
+"Omaha, NE",13,1,10
 Space,13,1,10
 "Nottingham, England",13,3,10
 Dubai,13,3,8
@@ -291,38 +296,39 @@ everywhere,12,1,10
 "Cebu City, Central Visayas",12,1,9
 htx,12,1,7
 "Rio de Janeiro, Brasil",12,1,8
-San Diego,12,2,10
 Berlin,12,1,8
 Sydney,12,4,9
 .,12,2,8
+Kuwait,12,2,9
 "Galway, Ireland",12,8,5
-"Delhi, India",12,2,9
 Unknown,12,1,8
 "Brighton, England",12,2,8
 US,12,1,12
-"Fayetteville, NC",12,2,7
 European Union,12,3,8
+"Fort Worth, Texas",12,3,6
 India,12,3,7
-"Omaha, NE",12,1,10
+Yorkshire,12,2,9
 "New South Wales, Australia",12,3,8
+"Selangor, Malaysia",12,1,12
 england,12,2,7
 "Tacoma, WA",11,1,7
 Midwest,11,1,8
 "Sacramento, CA",11,2,7
 Belgium,11,1,8
 Tokyo,11,1,7
-Kuwait,11,2,8
 Durban,11,1,6
 NC,11,1,5
 "Maine, USA",11,2,9
-Yorkshire,11,2,9
 Kent,11,1,7
 "Brussels, Belgium",11,4,7
+Uk,11,1,9
+"Oakland, CA",11,1,10
 "Bangalore, India",11,3,6
+"Maharashtra, India",11,1,8
 Quezon City,11,2,11
-"Selangor, Malaysia",11,1,11
 "İstanbul, Türkiye",11,3,8
 "Rochester, NY",11,2,9
+"Preston, England",11,4,8
 Leeds,11,2,8
 East Coast,11,3,8
 "Adelaide, South Australia",10,3,6
@@ -331,30 +337,30 @@ Greece,10,1,8
 "Birmingham, UK",10,1,8
 Detroit,10,1,5
 nowhere,10,1,9
+Ahmedabad,10,3,8
 "Port Harcourt, Nigeria",10,1,7
 canada,10,2,6
 "Rajasthan, India",10,1,8
 Wonderland,10,2,6
-"Fort Worth, Texas",10,2,5
 South Florida,10,1,9
 "Derry, Ireland",10,2,7
-Uk,10,1,8
-"Oakland, CA",10,1,9
+Kansas City,10,2,7
 "Jacksonville, FL",10,1,9
-"Maharashtra, India",10,1,8
+"Fresno, CA",10,1,8
 TX,10,1,9
+Massachusetts,10,1,8
 philippines,10,2,7
-"Preston, England",10,4,8
 "London, United Kingdom",10,1,5
 "Edmonton, Alberta",10,1,8
+"Harare, Zimbabwe",10,1,8
 "Haryana, India",9,2,6
 toronto,9,1,7
 lost,9,1,8
 "Ealing, London",9,1,7
 Karachi,9,1,7
 "Moscow, Russia",9,1,6
+"Bhind, Madhya Pradesh",9,3,7
 Türkiye,9,2,8
-Ahmedabad,9,3,7
 대한민국,9,3,9
 "Atlanta, Georgia",9,1,6
 Hertfordshire,9,2,9
@@ -365,16 +371,13 @@ Hertfordshire,9,2,9
 Venezuela,9,1,7
 Antarctica,9,3,8
 Brasil - São Paulo SP,9,9,9
-"Fresno, CA",9,1,7
 "Blackpool, England",9,1,4
 Islamabad,9,1,6
-Massachusetts,9,1,7
 Bengaluru,9,1,4
 malaysia,9,1,7
 "Vienna, Austria",9,2,7
 Nottingham,9,1,5
 Airstrip One,9,6,5
-"Harare, Zimbabwe",9,1,7
 "Caracas, Venezuela",8,2,4
 "Ahmadabad City, India",8,2,6
 "Corpus Christi, TX",8,1,4
@@ -388,8 +391,8 @@ Cambodia,8,1,4
 "East Midlands, England",8,1,6
 "Lisboa, Portugal",8,1,8
 "Nerul, Navi Mumbai",8,4,8
-"Bhind, Madhya Pradesh",8,2,6
 "Rohtak,India",8,2,6
+Gurugram,8,3,7
 Kolkata,8,2,6
 "Let us pray for everyone, for everything, for every needs",8,1,7
 Sverige,8,2,4
@@ -401,7 +404,6 @@ Missouri,8,1,8
 manchester,8,3,4
 mumbai,8,1,6
 "Dubai, UAE",8,1,8
-Kansas City,8,2,5
 "Porto, Portugal",8,3,6
 Iowa,8,1,8
 world,8,1,7
@@ -424,9 +426,9 @@ Cambridge,7,2,4
 "Exeter, England",7,4,4
 "Midwest, USA",7,1,4
 behind you,7,1,3
+"Yonkers, NY",7,2,3
 🇬🇧,7,2,5
 Malta,7,3,6
-Gurugram,7,3,7
 "Nebraska, USA",7,2,6
 somewhere,7,1,5
 Edmonton,7,4,6
@@ -451,13 +453,13 @@ east london,6,1,4
 "Muscat, Oman",6,1,6
 "Katsina, Nigeria",6,1,4
 दिल्ली,6,2,4
+I live under Jacksepticeye bed,6,4,6
 "Hull, England",6,1,1
 "Missoula, MT",6,1,6
 Cardiff,6,1,5
 "San Juan, Puerto Rico",6,1,3
 "Vermont, USA",6,3,4
 Karachi Pakistan,6,1,4
-"Yonkers, NY",6,1,3
 Brisbane,6,1,2
 "Makati City, National Capital",6,2,6
 south africa,6,1,4
@@ -475,6 +477,7 @@ LUX,6,5,6
 "Sao Paulo, Brazil",6,1,4
 West Virginia,6,1,5
 "Green Bay, WI",6,1,6
+"Victoria, British Columbia",6,3,4
 "Jos, Nigeria",6,1,6
 heaven,6,1,6
 "Lima, Peru",6,1,6
@@ -500,7 +503,6 @@ Marikina City,5,2,4
 "Surrey, UK",5,1,2
 "Burlington, VT",5,1,4
 "Selwyn District, New Zealand",5,1,1
-I live under Jacksepticeye bed,5,4,5
 "Leeds, UK",5,2,1
 "Meath, Ireland",5,2,4
 "Charlottesville, VA",5,1,5
@@ -519,12 +521,14 @@ Pittsburgh,5,1,2
 Lost,5,1,3
 "Nova Scotia, Canada",5,1,3
 "Dundee, Scotland",5,2,2
+"Prague, Czech Republic",5,2,4
 Riyadh,5,1,4
 "Bulawayo, Zimbabwe",5,1,4
 "Manila City, National Capital",5,4,5
 Barcelona,5,1,5
 DM[V],5,1,2
 "Allahabad, India",5,1,4
+"Colchester, England",5,2,3
 Ukraine,5,1,5
 "Munich, Bavaria",5,1,4
 "Monterrey, Nuevo León",5,1,5
@@ -534,7 +538,6 @@ Area 51,5,1,4
 România,5,1,4
 "London, Ontario",5,1,2
 Katni,5,2,4
-"Victoria, British Columbia",5,2,4
 "Islington, London",5,2,3
 Sussex,5,1,3
 South Wales,5,2,3
@@ -546,6 +549,7 @@ Makati City,5,1,4
 "Tema, Ghana",5,1,3
 "Croydon, London",5,1,1
 WV,5,1,3
+Österreich,5,1,3
 Dominican Republic,5,1,3
 Cheshire,5,1,4
 "Bengaluru, Karnataka",5,1,3
@@ -566,7 +570,9 @@ essex,4,1,1
 "Calabarzon, Republic of the Ph",4,1,3
 "Already Great, New Jersey",4,3,4
 "Abu Dhabi, UAE",4,1,4
+Surrey,4,2,3
 Belfast,4,1,1
+Cumbria,4,2,3
 "Stirling, Scotland",4,1,2
 "Springs, South Africa",4,1,4
 VA,4,1,4
@@ -592,7 +598,6 @@ Baku,4,1,4
 "Duncanville, TX",4,1,3
 Wiltshire,4,1,2
 "Bedford, England",4,1,3
-"Prague, Czech Republic",4,1,3
 "Camden Town, London",4,1,3
 "Fort Lauderdale, FL",4,1,3
 "Olongapo City, Central Luzon",4,3,4
@@ -600,7 +605,6 @@ Outer Space,4,1,4
 citizen of the omniverse,4,3,2
 "Milton Keynes, England",4,1,3
 Country NSW,4,3,3
-"Colchester, England",4,2,2
 lahore,4,1,3
 "Morris Plains, NJ",4,1,2
 "Madrid, Spain",4,1,3
@@ -618,8 +622,9 @@ UAE,4,1,3
 Saint Lucia,4,2,4
 Bombay,4,1,3
 "Katy, TX",4,1,2
-Österreich,4,1,2
 "Aurangabad, Maharashtra",4,1,3
+Lincolnshire,4,1,2
+"Roanoke, VA",4,2,3
 "Beverly Hills, CA",4,1,2
 MA,4,1,2
 "Jackson, TN",4,2,2
@@ -627,6 +632,7 @@ MA,4,1,2
 "Karaikal, India",4,4,4
 Idaho,4,1,4
 WorldWide,4,1,4
+Baltimore,4,1,4
 "Halifax, England",4,1,2
 "Johannesburg,South Africa",4,1,4
 "Troy, NY",4,1,2
@@ -666,11 +672,9 @@ Queens.,3,1,3
 "Marietta, GA",3,1,2
 Basingstoke,3,1,2
 "Ellisville,Mississippi JonesCo",3,1,2
-Surrey,3,2,2
 Observing the NHS failures,3,1,2
 Harare,3,1,3
 "Takoma Park, MD",3,1,3
-Cumbria,3,1,2
 "Dallas, Tx",3,1,3
 KCMO,3,1,3
 South Africa (Azania),3,2,3
@@ -723,6 +727,7 @@ UST,3,2,2
 "Portland, ME",3,1,1
 "Pembroke Pines, FL",3,1,1
 "Quetta, Balochistan",3,1,3
+"San Pedro, Calabarzon",3,1,2
 Baguio City,3,1,1
 NM,3,1,2
 Long Island,3,1,2
@@ -730,6 +735,7 @@ Long Island,3,1,2
 With the Royal Council,3,1,1
 "Royal Oak, MI",3,1,3
 "Seoul,Korea",3,1,3
+UP,3,1,1
 michigan,3,1,1
 "Quezon City, National Capital Region",3,1,3
 "West Melbourne, FL",3,1,3
@@ -766,12 +772,11 @@ SAAD Computer Systems,3,2,2
 🌚,3,2,3
 kent,3,1,1
 "Brooklyn, NYC",3,1,2
+"Beaverton, OR",3,2,2
 Newcastle Upon Tyne,3,1,1
 "Bengaluru, Karnataka, India",3,2,3
-Lincolnshire,3,1,2
 "Modesto, CA",3,1,3
 "Ferndale, MI",3,1,3
-"Roanoke, VA",3,2,2
 الرياض,3,1,3
 Davao City,3,1,3
 gay,3,1,2
@@ -780,9 +785,9 @@ Mumtaz Occupied West Bengal.,3,1,3
 "Australian Capital Territory, Australia",3,1,3
 Llanelli,3,1,1
 "Richmond, Virginia, USA",3,1,1
+Trumpsville,3,2,2
 "Orlando, Florida",3,1,3
 "Chesterfield County, Virginia",3,1,2
-Baltimore,3,1,3
 "Kilkenny, Ireland",3,1,2
 In Hell,3,2,3
 Santiago,3,1,3
@@ -802,6 +807,7 @@ kaduna,2,1,1
 "Jeddah, Kingdom of Saudi Arabi",2,1,2
 "Norfolk, UK",2,1,2
 Ottawa - Algonquin Territory,2,2,1
+hopeworld,2,1,2
 l,2,1,2
 JAPAN,2,1,2
 "London, Kensington & Chelsea",2,1,2
@@ -876,6 +882,7 @@ Planet Ping Pong,2,1,2
 Middle Of Nowhere,2,1,2
 planet Irk (aka Austin),2,1,2
 "Westlock, Alberta",2,1,2
+Polokwane,2,1,2
 konoha,2,1,1
 🥀,2,1,2
 Western New York,2,1,2
@@ -896,6 +903,7 @@ six feet under,2,1,2
 vegas,2,1,1
 GGN-HYD-MAA-TVL ஜம்புதிவீபம்,2,1,2
 "Alief, Houston",2,1,2
+"Minnesota,USA",2,1,2
 Az,2,1,1
 hyd,2,1,2
 chanyeol's pocket,2,1,1
@@ -949,7 +957,6 @@ norwich,2,1,1
 Cavite,2,1,1
 University of Hull,2,2,2
 Россия & England,2,1,1
-"San Pedro, Calabarzon",2,1,1
 "oslo, norway",2,2,1
 Ze/zir,2,1,1
 EveryWhere,2,1,2
@@ -960,6 +967,7 @@ My House,2,1,2
 "Scotland, UK",2,1,2
 "Kitchener, Ontario",2,1,2
 ottawa ontario,2,2,1
+☀,2,1,1
 "Homewood, IL",2,1,1
 CLE,2,1,1
 hf'18//uwm’22//blm,2,1,2
@@ -1015,6 +1023,7 @@ the kingdom of kerry,2,1,2
 Guess,2,1,2
 "Country Vic, Australia",2,1,1
 In the ethers...,2,1,1
+"Metairie, LA",2,1,1
 Katni M.P.,2,1,1
 Charm City,2,2,2
 SOUTH AFRICA/JHB/ALRAPARK,2,1,2
@@ -1036,7 +1045,6 @@ Ireland 🍀,2,1,1
 whereverilaymyhat,2,2,2
 "Iriga City, Bicol Region",2,1,2
 Lost under a vanilla sky,2,1,2
-"Beaverton, OR",2,2,2
 Ilorin,2,1,2
 Accra,2,1,2
 "Lambeth, London",2,1,1
@@ -1061,6 +1069,7 @@ Bangkok,2,1,2
 right next to you,2,2,2
 LAGOS,2,2,2
 Torino,2,1,1
+Shirley,2,1,2
 Oof™,2,1,2
 Más allá de la duda razonable,2,2,2
 Pasig City,2,1,2
@@ -1074,7 +1083,6 @@ The Great Wide Open,2,1,2
 momma's heart❤️,2,1,2
 "Bristol, United Kingdom, EU",2,1,1
 "Faisalabad,Punjab,Pakistan",2,1,1
-Trumpsville,2,1,1
 "Holland, MI",2,1,2
 backup: @mlckween,2,2,2
 The Zoo,2,1,1
@@ -1085,6 +1093,7 @@ nadia jason bea rhi,2,1,2
 "Harrogate, England",2,1,1
 Here and there,2,1,2
 "होसकोटे, Bengaluru South",2,1,2
+PILIPINAS,2,1,2
 "Northridge, CA",2,1,1
 "Stoke Newington, Hackney",2,1,2
 Midrand,2,1,1
@@ -1136,7 +1145,6 @@ Lunar Warlock Twixy koa,1,1,1
 "Lancaster, Pa via Pittsburgh",1,1,1
 "Altadena, CA",1,1,1
 Puget Sound region,1,1,1
-hopeworld,1,1,1
 In a world of pure imagination,1,1,1
 "•ig: avixism •Hellville, IL",1,1,1
 "Barnstaple, England",1,1,1
@@ -1237,10 +1245,12 @@ Subic · Manila,1,1,1
 New york shitty,1,1,1
 Starkiller's trash compactor,1,1,1
 "Mouseville, NE Texas, USA",1,1,1
+Somewhere in Southern England,1,1,1
 international****worldwide,1,1,1
 "The Bridge of Wood, VA",1,1,1
 "Manchester,UK",1,1,1
 cole world,1,1,1
+your heart,1,1,1
 dyanlang,1,1,1
 Your head,1,1,1
 "32.7357° N, 97.1081° W",1,1,1
@@ -1264,8 +1274,8 @@ Wabad,1,1,1
 Proud Indian,1,1,1
 Kasheer.,1,1,1
 Australia,1,1,1
-"Las Pinas City, National Capit",1,1,1
 "J&K State , Srinager.",1,1,1
+"Las Pinas City, National Capit",1,1,1
 Pekanbaru,1,1,1
 Saint-Ouen - Paris,1,1,1
 🌏🇯🇵🇳🇿🇬🇧🌈,1,1,1
@@ -1368,6 +1378,7 @@ rural w/ urban proximity,1,1,1
 "Frânceşti, România",1,1,1
 MD/ DC,1,1,1
 "United Kingdom,Kent.",1,1,1
+306/300,1,1,1
 Scotland•17,1,1,1
 "Independence, KY",1,1,1
 T字路,1,1,1
@@ -1420,6 +1431,7 @@ Cell Block D,1,1,1
 S.T.A.A.R Labs,1,1,1
 ar gen tina,1,1,1
 Aligarh,1,1,1
+"Port Angeles, WA",1,1,1
 melbourne australia,1,1,1
 "Dysart, Scotland",1,1,1
 fat mac,1,1,1
@@ -1449,7 +1461,6 @@ London Town & Online Worldwide,1,1,1
 Philippines ✈✈✈✈✈,1,1,1
 between your hills,1,1,1
 "Lower Indiana, N.A., Earth",1,1,1
-"Minnesota,USA",1,1,1
 I'm in your head!,1,1,1
 "Limay, Central Luzon",1,1,1
 桜の替わりに灰の振る街,1,1,1
@@ -1509,6 +1520,7 @@ Writer for #Ꮮîɢʜᴛ. [Is a dude],1,1,1
 Angus Scotland UK 🇬🇧,1,1,1
 she's lost,1,1,1
 Jersey Shore,1,1,1
+mlvsptj,1,1,1
 RH6,1,1,1
 🥀 .,1,1,1
 Nuneaton,1,1,1
@@ -1569,6 +1581,7 @@ ryjeanell 💚🙈👑,1,1,1
 Whither my Fancy is Tickled,1,1,1
 Land of the Kulin Nation,1,1,1
 GOTH ANGEL SINNER,1,1,1
+bourne end bucks,1,1,1
 snapchat/insta: jessvining121,1,1,1
 Porpoise,1,1,1
 Columbia SC,1,1,1
@@ -1583,6 +1596,7 @@ In the shower,1,1,1
 Stuck in the middle with u ❤,1,1,1
 "Sobradinho, Brasil",1,1,1
 @marioharaa made this,1,1,1
+Sur ton écran,1,1,1
 UWS,1,1,1
 Surrounded by cats,1,1,1
 "Red Bank, NJ",1,1,1
@@ -1872,7 +1886,6 @@ Azania Durban,1,1,1
 Léè Temple,1,1,1
 "25.0000° N, 71.0000° W",1,1,1
 land of Oooo,1,1,1
-"Metairie, LA",1,1,1
 Planetary Citizen,1,1,1
 heedar longir sifath,1,1,1
 Lisboa,1,1,1
@@ -1986,16 +1999,3 @@ italy,1,1,1
 somewhere between sad and mad.,1,1,1
 "Baltimore, 地球, Cape Breton",1,1,1
 Torontoish,1,1,1
-"Perth, WA",1,1,1
-NYC & Virginia,1,1,1
-jungkook penis,1,1,1
-anna's heart,1,1,1
-"Clipper nAtion, City of Kings, Salvifornia… 🇸🇻",1,1,1
-10JP,1,1,1
-"Lytle Creek, Ca",1,1,1
-zanarkand,1,1,1
-Cabuyao Laguna,1,1,1
-Germany - England - Greece,1,1,1
-"Tamiami, FL",1,1,1
-Twitch.tv/leprsy,1,1,1
-金山,1,1,1
