@@ -11,9 +11,6 @@ import dash_auth
 
 df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)
 #df2 = pd.read_csv('Dataframes/Languages.csv')[:50]
-df3 = pd.read_csv('Dataframes/People.csv')[:100000]
-df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
-df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
 df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
@@ -80,14 +77,19 @@ Use the dropdown above to select location of interest to display the number of e
 
 page_1_layout = html.Div([
     html.H1('Records'),
-    dt.DataTable(
-                rows=df3.to_dict('records'),
-                filterable=True,
-                sortable=True,
-                editable=False,
-                min_height= 350,
-                column_widths=80
-            ),
+    html.Div([
+        dcc.Tabs(
+            tabs=[
+                {'label': 'tab 1', 'value': 1},
+                {'label': 'tab 2', 'value': 2},
+                {'label': 'tab 3', 'value': 3},
+            ],
+            value=1,
+            id='tabs',
+            vertical=True,
+            style={'height': '1000', 'width': '20%', 'float': 'left'}),
+        html.Div(id='tab-output', style={'height': '400', 'width': '80%', 'float': 'left'})
+    ], id='content', style={'height': '400'}),
     dcc.Graph(
         id='histogram',
         figure={
@@ -102,22 +104,6 @@ page_1_layout = html.Div([
             }
         }
     ),
-    html.Div([
-    dt.DataTable(
-                rows=df6.to_dict('records'),
-                filterable=True,
-                sortable=True,
-                editable=False,
-                min_height=240
-            )], style={'width': '60%', 'display': 'inline-block', 'vertical-align': 'left'}),
-    html.Div([
-    dt.DataTable(
-        rows=df7.to_dict('records'),
-        filterable=True,
-        sortable=True,
-        editable=False,
-        min_height=240
-    )], style={'width': '40%', 'display': 'inline-block', 'vertical-align': 'right'}),
  #   html.Div(id='page-1-content'),
     html.Div([
     html.H1('Countries'),
@@ -218,7 +204,43 @@ def update_figure(country1):
                 'title': 'Dash Data Visualization'
             }
     }
+@app.callback(dash.dependencies.Output('tab-output', 'children'),
+              [dash.dependencies.Input('tabs', 'value')])
+def display_tab(value):
+    if value == 1:
+        df3 = pd.read_csv('Dataframes/People.csv')[:100000]
+        return (
+            html.Div(dt.DataTable(
+                rows=df3.to_dict('records'),
+                filterable=True,
+                sortable=True,
+                editable=False,
+                min_height= 350,
+                column_widths=80
+            ))
+        )
 
+    if value == 2:
+        df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
+        return (html.Div(dt.DataTable(
+            id="datatablecountry",
+            rows=df6.to_dict('records'),
+            filterable=True,
+            sortable=True,
+            editable=False,
+            min_height=240
+        )))
+
+    if value == 3:
+        df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
+        return (html.Div([
+    dt.DataTable(
+        rows=df7.to_dict('records'),
+        filterable=True,
+        sortable=True,
+        editable=False,
+        min_height=240
+    )]))
 if __name__ == '__main__':
 
     app.run_server(debug=True)
