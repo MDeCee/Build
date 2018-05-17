@@ -81,9 +81,9 @@ page_1_layout = html.Div([
     html.Div([
         dcc.Tabs(
             tabs=[
-                {'label': 'tab 1', 'value': 1},
-                {'label': 'tab 2', 'value': 2},
-                {'label': 'tab 3', 'value': 3},
+                {'label': 'Details', 'value': 1},
+                {'label': 'User Details', 'value': 2},
+                {'label': 'Tweet Details', 'value': 3},
             ],
             value=1,
             id='tabs2',
@@ -157,7 +157,19 @@ def display_tab(value, value2):
                 ))
             )
         if value == 2:
-            df6 = pd.read_csv('Dataframes/People2.csv')[:100000]
+            df3 = pd.read_csv('Dataframes/PeopleRisk.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df3.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
+        if value == 3:
+            df6 = pd.read_csv('Dataframes/PeopleHighRisk.csv')[:100000]
             return (
                 html.Div(dt.DataTable(
                     rows=df6.to_dict('records'),
@@ -168,24 +180,12 @@ def display_tab(value, value2):
                     column_widths=80
                 ))
             )
-        if value == 3:
-            df7 = pd.read_csv('Dataframes/People3.csv')[:100000]
-            return (
-                html.Div(dt.DataTable(
-                    rows=df7.to_dict('records'),
-                    filterable=True,
-                    sortable=True,
-                    editable=False,
-                    min_height= 350,
-                    column_widths=80
-                ))
-            )
 
     if value2 == 2:
         if value == 1:
-            df3 = pd.read_csv('Dataframes/PeopleRisk.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/People2.csv')[:100000]
             return (html.Div(dt.DataTable(
-                rows=df3.to_dict('records'),
+                rows=df6.to_dict('records'),
                 filterable=True,
                 sortable=True,
                 editable=False,
@@ -204,10 +204,10 @@ def display_tab(value, value2):
                 ))
             )
         if value == 3:
-            df7 = pd.read_csv('Dataframes/People3Risk.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/People2HighRisk.csv')[:100000]
             return (
                 html.Div(dt.DataTable(
-                    rows=df7.to_dict('records'),
+                    rows=df6.to_dict('records'),
                     filterable=True,
                     sortable=True,
                     editable=False,
@@ -218,18 +218,18 @@ def display_tab(value, value2):
 
     if value2 == 3:
         if value == 1:
-            df3 = pd.read_csv('Dataframes/PeopleHighRisk.csv')[:100000]
+            df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
             return (html.Div(dt.DataTable(
-                rows=df3.to_dict('records'),
+                rows=df7.to_dict('records'),
                 filterable=True,
                 sortable=True,
                 editable=False,
                 min_height=240
             )))
         if value == 2:
-            df6 = pd.read_csv('Dataframes/People2HighRisk.csv')[:100000]
+            df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
             return (html.Div(dt.DataTable(
-                rows=df6.to_dict('records'),
+                rows=df7.to_dict('records'),
                 filterable=True,
                 sortable=True,
                 editable=False,
