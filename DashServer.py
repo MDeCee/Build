@@ -100,7 +100,7 @@ page_1_layout = html.Div([
             vertical=True,
             style={'height': '1000', 'width': '20%', 'float': 'left'}),
         html.Div(id='tab-output', style={'height': '400', 'width': '80%', 'float': 'left'})
-    ], id='content', style={'height': '800'}),
+    ], id='content', style={'height': '1000'}),
     dcc.Graph(
         id='histogram',
         figure={
@@ -152,7 +152,7 @@ def display_tab(value, value2):
                     filterable=True,
                     sortable=True,
                     editable=False,
-                    min_height= 800,
+                    min_height= 1000,
                     column_widths=80
                 ))
             )
@@ -164,7 +164,7 @@ def display_tab(value, value2):
                     filterable=True,
                     sortable=True,
                     editable=False,
-                    min_height= 800,
+                    min_height= 1000,
                     column_widths=80
                 ))
             )
@@ -176,7 +176,7 @@ def display_tab(value, value2):
                     filterable=True,
                     sortable=True,
                     editable=False,
-                    min_height= 800,
+                    min_height= 1000,
                     column_widths=80
                 ))
             )
@@ -189,7 +189,7 @@ def display_tab(value, value2):
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=800
+                min_height=1000
             )))
         if value == 2:
             df6 = pd.read_csv('Dataframes/People2Risk.csv')[:100000]
@@ -199,7 +199,7 @@ def display_tab(value, value2):
                     filterable=True,
                     sortable=True,
                     editable=False,
-                    min_height= 800,
+                    min_height= 1000,
                     column_widths=80
                 ))
             )
@@ -211,7 +211,7 @@ def display_tab(value, value2):
                     filterable=True,
                     sortable=True,
                     editable=False,
-                    min_height= 800,
+                    min_height= 1000,
                     column_widths=80
                 ))
             )
@@ -224,7 +224,7 @@ def display_tab(value, value2):
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=800
+                min_height=1000
             )))
         if value == 2:
             df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
@@ -233,7 +233,7 @@ def display_tab(value, value2):
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=800
+                min_height=1000
             )))
         if value == 3:
             df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
@@ -242,7 +242,7 @@ def display_tab(value, value2):
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height=800
+                min_height=1000
             )))
 @app.callback(dash.dependencies.Output('datatable', 'selected_row_indices'),
             [dash.dependencies.Input('graph', 'clickData')],
