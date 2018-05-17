@@ -14,8 +14,6 @@ df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
 df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
-df3 = pd.read_csv('Dataframes/People.csv')[:100000]
-df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
 df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
 
 Users_Passwords = [
@@ -145,36 +143,107 @@ page_1_layout = html.Div([
               [dash.dependencies.Input('tabs', 'value'),
                dash.dependencies.Input('tabs2', 'value')])
 def display_tab(value, value2):
-    if value == 1 & value2 == 1:
-        return (
-            html.Div(dt.DataTable(
+    if value2 == 1:
+        if value == 1:
+            df3 = pd.read_csv('Dataframes/People.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df3.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
+        if value == 2:
+            df6 = pd.read_csv('Dataframes/People2.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df6.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
+        if value == 3:
+            df7 = pd.read_csv('Dataframes/People3.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df7.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
+
+    if value2 == 2:
+        if value == 1:
+            df3 = pd.read_csv('Dataframes/PeopleRisk.csv')[:100000]
+            return (html.Div(dt.DataTable(
                 rows=df3.to_dict('records'),
                 filterable=True,
                 sortable=True,
                 editable=False,
-                min_height= 350,
-                column_widths=80
-            ))
-        )
+                min_height=240
+            )))
+        if value == 2:
+            df6 = pd.read_csv('Dataframes/People2Risk.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df6.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
+        if value == 3:
+            df7 = pd.read_csv('Dataframes/People3Risk.csv')[:100000]
+            return (
+                html.Div(dt.DataTable(
+                    rows=df7.to_dict('records'),
+                    filterable=True,
+                    sortable=True,
+                    editable=False,
+                    min_height= 350,
+                    column_widths=80
+                ))
+            )
 
-    if value == 1 & value2 == 2:
-        return (html.Div(dt.DataTable(
-            rows=df6.to_dict('records'),
-            filterable=True,
-            sortable=True,
-            editable=False,
-            min_height=240
-        )))
-
-    if value == 1 & value2 == 3:
-        return (html.Div([
-    dt.DataTable(
-        rows=df7.to_dict('records'),
-        filterable=True,
-        sortable=True,
-        editable=False,
-        min_height=240
-    )]))
+    if value2 == 3:
+        if value == 1:
+            df3 = pd.read_csv('Dataframes/PeopleHighRisk.csv')[:100000]
+            return (html.Div(dt.DataTable(
+                rows=df3.to_dict('records'),
+                filterable=True,
+                sortable=True,
+                editable=False,
+                min_height=240
+            )))
+        if value == 2:
+            df6 = pd.read_csv('Dataframes/People2HighRisk.csv')[:100000]
+            return (html.Div(dt.DataTable(
+                rows=df6.to_dict('records'),
+                filterable=True,
+                sortable=True,
+                editable=False,
+                min_height=240
+            )))
+        if value == 3:
+            df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
+            return (html.Div(dt.DataTable(
+                rows=df7.to_dict('records'),
+                filterable=True,
+                sortable=True,
+                editable=False,
+                min_height=240
+            )))
 @app.callback(dash.dependencies.Output('datatable', 'selected_row_indices'),
             [dash.dependencies.Input('graph', 'clickData')],
             [dash.dependencies.State('datatable', 'selected_row_indices')])
