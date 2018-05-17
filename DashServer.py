@@ -14,6 +14,9 @@ df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
 df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
+df3 = pd.read_csv('Dataframes/People.csv')[:100000]
+df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
+df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
 
 Users_Passwords = [
     ['Admin', '7797']
@@ -85,11 +88,21 @@ page_1_layout = html.Div([
                 {'label': 'tab 3', 'value': 3},
             ],
             value=1,
+            id='tabs2',
+            vertical=False,
+            style={'height': '46', 'width': '100%', 'float': 'right'}),
+        dcc.Tabs(
+            tabs=[
+                {'label': 'tab 1', 'value': 1},
+                {'label': 'tab 2', 'value': 2},
+                {'label': 'tab 3', 'value': 3},
+            ],
+            value=1,
             id='tabs',
             vertical=True,
             style={'height': '1000', 'width': '20%', 'float': 'left'}),
         html.Div(id='tab-output', style={'height': '400', 'width': '80%', 'float': 'left'})
-    ], id='content', style={'height': '400'}),
+    ], id='content', style={'height': '800'}),
     dcc.Graph(
         id='histogram',
         figure={
@@ -128,7 +141,40 @@ page_1_layout = html.Div([
 
 ], style={'marginLeft': 40, 'marginRight': 40})
 #, className="container"
+@app.callback(dash.dependencies.Output('tab-output', 'children'),
+              [dash.dependencies.Input('tabs', 'value'),
+               dash.dependencies.Input('tabs2', 'value')])
+def display_tab(value, value2):
+    if value == 1 & value2 == 1:
+        return (
+            html.Div(dt.DataTable(
+                rows=df3.to_dict('records'),
+                filterable=True,
+                sortable=True,
+                editable=False,
+                min_height= 350,
+                column_widths=80
+            ))
+        )
 
+    if value == 1 & value2 == 2:
+        return (html.Div(dt.DataTable(
+            rows=df6.to_dict('records'),
+            filterable=True,
+            sortable=True,
+            editable=False,
+            min_height=240
+        )))
+
+    if value == 1 & value2 == 3:
+        return (html.Div([
+    dt.DataTable(
+        rows=df7.to_dict('records'),
+        filterable=True,
+        sortable=True,
+        editable=False,
+        min_height=240
+    )]))
 @app.callback(dash.dependencies.Output('datatable', 'selected_row_indices'),
             [dash.dependencies.Input('graph', 'clickData')],
             [dash.dependencies.State('datatable', 'selected_row_indices')])
@@ -187,6 +233,7 @@ def update_figure2(rows, selected_row_indices):
 @app.callback(
     dash.dependencies.Output('bar', 'figure'),
     [dash.dependencies.Input('xaxis-column', 'value')])
+
 def update_figure(country1):
     traces = []
     if country1 is not None:
@@ -204,43 +251,6 @@ def update_figure(country1):
                 'title': 'Dash Data Visualization'
             }
     }
-@app.callback(dash.dependencies.Output('tab-output', 'children'),
-              [dash.dependencies.Input('tabs', 'value')])
-def display_tab(value):
-    if value == 1:
-        df3 = pd.read_csv('Dataframes/People.csv')[:100000]
-        return (
-            html.Div(dt.DataTable(
-                rows=df3.to_dict('records'),
-                filterable=True,
-                sortable=True,
-                editable=False,
-                min_height= 350,
-                column_widths=80
-            ))
-        )
-
-    if value == 2:
-        df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
-        return (html.Div(dt.DataTable(
-            id="datatablecountry",
-            rows=df6.to_dict('records'),
-            filterable=True,
-            sortable=True,
-            editable=False,
-            min_height=240
-        )))
-
-    if value == 3:
-        df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
-        return (html.Div([
-    dt.DataTable(
-        rows=df7.to_dict('records'),
-        filterable=True,
-        sortable=True,
-        editable=False,
-        min_height=240
-    )]))
 if __name__ == '__main__':
 
     app.run_server(debug=True)
