@@ -52,7 +52,7 @@ app.layout = make_layout
 
 index_page = html.Div([
     dcc.Markdown('''
-Twitter Malicious Behavior Visualizer
+Twitter Suicidal and Depressive Behavior Visualizer
 ===================================== 
 
 **Made for educational purposes.**           
@@ -63,6 +63,7 @@ know people who behave in a similar manner.
 
 This page is made using [Dash](https://plot.ly/products/dash/).
 Use the dropdown above to select location of interest to display the number of entries from that location. 
+*Terms of Service in Development.*
     '''),
     dcc.Dropdown(
         id='xaxis-column',
@@ -72,7 +73,7 @@ Use the dropdown above to select location of interest to display the number of e
     dcc.Graph(
         id='bar'
     ),
-    dcc.Link('Go to Page 1', href='/page-1')
+    dcc.Link('I accept the Terms of Service', href='/page-1')
 ])
 
 
