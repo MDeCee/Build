@@ -228,7 +228,7 @@ def display_tab(value, value2):
                 min_height=1000
             )))
         if value == 2:
-            df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
+            df7 = pd.read_csv('Dataframes/People3Risk.csv', error_bad_lines=False)
             return (html.Div(dt.DataTable(
                 rows=df7.to_dict('records'),
                 filterable=True,
