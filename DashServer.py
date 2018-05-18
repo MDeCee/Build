@@ -9,12 +9,12 @@ import dash_table_experiments as dt
 import plotly
 import dash_auth
 
-df = pd.read_csv('Dataframes/Countries.csv', error_bad_lines=False)
+df = pd.read_csv('Dataframes/Countries.csv')
 #df2 = pd.read_csv('Dataframes/Languages.csv')[:50]
 #df4 = pd.read_csv('Dataframes/SuicideByCountry.csv')[:50]
 df5 = pd.read_csv('Dataframes/SuicideByDate.csv')[:50]
 start_time = time.time()
-df6 = pd.read_csv('Dataframes/People2.csv', error_bad_lines=False)
+df6 = pd.read_csv('Dataframes/People2.csv')
 
 Users_Passwords = [
     ['Admin', '7797']
@@ -146,7 +146,7 @@ page_1_layout = html.Div([
 def display_tab(value, value2):
     if value2 == 1:
         if value == 1:
-            df3 = pd.read_csv('Dataframes/People.csv')[:100000]
+            df3 = pd.read_csv('Dataframes/People.csv')
             return (
                 html.Div(dt.DataTable(
                     rows=df3.to_dict('records'),
@@ -158,7 +158,7 @@ def display_tab(value, value2):
                 ))
             )
         if value == 2:
-            df3 = pd.read_csv('Dataframes/PeopleRisk.csv')[:100000]
+            df3 = pd.read_csv('Dataframes/PeopleRisk.csv')
             return (
                 html.Div(dt.DataTable(
                     rows=df3.to_dict('records'),
@@ -170,7 +170,7 @@ def display_tab(value, value2):
                 ))
             )
         if value == 3:
-            df6 = pd.read_csv('Dataframes/PeopleHighRisk.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/PeopleHighRisk.csv')
             return (
                 html.Div(dt.DataTable(
                     rows=df6.to_dict('records'),
@@ -184,7 +184,7 @@ def display_tab(value, value2):
 
     if value2 == 2:
         if value == 1:
-            df6 = pd.read_csv('Dataframes/People2.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/People2.csv')
             return (html.Div(dt.DataTable(
                 rows=df6.to_dict('records'),
                 filterable=True,
@@ -193,7 +193,7 @@ def display_tab(value, value2):
                 min_height=1000
             )))
         if value == 2:
-            df6 = pd.read_csv('Dataframes/People2Risk.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/People2Risk.csv')
             return (
                 html.Div(dt.DataTable(
                     rows=df6.to_dict('records'),
@@ -205,7 +205,7 @@ def display_tab(value, value2):
                 ))
             )
         if value == 3:
-            df6 = pd.read_csv('Dataframes/People2HighRisk.csv')[:100000]
+            df6 = pd.read_csv('Dataframes/People2HighRisk.csv')
             return (
                 html.Div(dt.DataTable(
                     rows=df6.to_dict('records'),
@@ -219,7 +219,7 @@ def display_tab(value, value2):
 
     if value2 == 3:
         if value == 1:
-            df7 = pd.read_csv('Dataframes/People3.csv', error_bad_lines=False)
+            df7 = pd.read_csv('Dataframes/People3.csv')
             return (html.Div(dt.DataTable(
                 rows=df7.to_dict('records'),
                 filterable=True,
@@ -228,7 +228,7 @@ def display_tab(value, value2):
                 min_height=1000
             )))
         if value == 2:
-            df7 = pd.read_csv('Dataframes/People3Risk.csv', error_bad_lines=False)
+            df7 = pd.read_csv('Dataframes/People3Risk.csv')
             return (html.Div(dt.DataTable(
                 rows=df7.to_dict('records'),
                 filterable=True,
@@ -237,7 +237,7 @@ def display_tab(value, value2):
                 min_height=1000
             )))
         if value == 3:
-            df7 = pd.read_csv('Dataframes/People3HighRisk.csv', error_bad_lines=False)
+            df7 = pd.read_csv('Dataframes/People3HighRisk.csv')
             return (html.Div(dt.DataTable(
                 rows=df7.to_dict('records'),
                 filterable=True,
